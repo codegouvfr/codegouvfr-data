@@ -1,3 +1,10 @@
+# List of Awesome code.gouv.fr repositories
+#
+# Each item is of the form:
+# 
+# repo_url:
+#   added: YYYY-MM-DD
+
 https://github.com/BaseAdresseNationale/codes-postaux:
   added: 2023-11-30
 
