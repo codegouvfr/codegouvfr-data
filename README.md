@@ -10,6 +10,7 @@ par [code.gouv.fr](https://code.gouv.fr.)
 
 - comptes-organismes-publics.yml: des comptes d'organisation du secteur public
 - formations-logiciels-libres.yml: des formations logiciels libres proposées par des acteurs privés
+- awesome-codegouvfr.csv: liste des projets identifiés comme "Awesome"
 
 # Contribuer
 
