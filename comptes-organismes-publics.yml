@@ -448,9 +448,9 @@ https://github.com/StartupsPoleEmploi:
   floss_policy:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
-    - Ministère du Travail, de l'Emploi et de l'Insertion
+    - France Travail
   pso_id:
-    - f130ad96-4a81-4eb4-a40c-0539edad5fff
+    - cb47a769-8574-403d-9130-0ad9c83c7e22
 
 https://github.com/mission-apprentissage:
   floss_policy:
@@ -1773,9 +1773,9 @@ https://github.com/DUT-Info-Montreuil:
 
 https://github.com/france-travail:
   service_of:
-    - Ministère du Travail, de l'Emploi et de l'Insertion
+    - France Travail
   pso_id:
-    - f130ad96-4a81-4eb4-a40c-0539edad5fff
+    - cb47a769-8574-403d-9130-0ad9c83c7e22
 
 https://src.koda.cnrs.fr:
   service_of:
