@@ -356,10 +356,8 @@ https://github.com/MTES-MCT:
   floss_policy:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
   service_of:
-    - Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales
     - Ministère de la Transition écologique
   pso_id:
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
     - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/MinistereSupRecherche:
@@ -573,12 +571,16 @@ https://github.com/dataesr:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/dinum-HubEE:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
 
 https://github.com/disic:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -638,7 +640,7 @@ https://github.com/etalab-ia:
 
 https://github.com/datagouv:
   floss_policy:
-    - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -691,6 +693,8 @@ https://github.com/fabnumdef:
     - d24d1af2-c506-4b10-82e8-ab92b8e959d2
 
 https://github.com/france-connect:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -842,6 +846,8 @@ https://github.com/numerique-gouv:
     - e5299ba4-7aa4-4f95-aa82-7e765d5648fe
 
 https://github.com/dinsic-gouv:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -922,6 +928,8 @@ https://github.com/sympa-community:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/tchapgouv:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -1096,7 +1104,6 @@ https://gitlab.orfeo-toolbox.org:
   pso_id:
     - df0845a5-af7d-4b35-b9d5-9d64bc53b8f9
 
-# Not sure
 https://gitlab.ow2.org/lemonldap-ng:
   service_of:
     - Ministère de l'Intérieur
@@ -1117,12 +1124,13 @@ https://github.com/IPGP:
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-# Not sure
 https://github.com/grame-cncm:
   service_of:
-    - Ministère de l'enseignement supérieur et de la recherche
+    - Ministère de la Culture
   pso_id:
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
+    - da1d6275-6710-485d-a249-282cac69dfe7
+  floss_policy:
+    - https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
 
 https://git.unicaen.fr:
   ignored_since: 2024-08-09
@@ -1168,7 +1176,6 @@ https://plmlab.math.cnrs.fr:
   pso_id:
     - 35a8a489-89b3-40ea-9838-803dcd5f7d18
 
-# Not sure
 https://github.com/premierlangage:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -1181,7 +1188,6 @@ https://github.com/sofa-framework:
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
 
-# Not sure
 https://github.com/sedfoam:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -1189,21 +1195,17 @@ https://github.com/sedfoam:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 # Mirror
-# Not sure
 https://github.com/fluiddyn:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-# Not sure
 https://framagit.org/datatourisme:
   service_of:
     - Direction Générale des Entreprises
-    - Ministère de l'Économie, des Finances et de la Relance
   pso_id:
     - c29540a1-a126-434d-a6dc-a0236eefeec6
-    - c4195774-f535-4d82-b03f-d5f0c6b08635
 
 https://git.ademe.fr:
   service_of:
@@ -1220,10 +1222,8 @@ https://git.beta.pole-emploi.fr:
 https://github.com/1024pix:
   service_of:
     - Ministère de l'Éducation nationale, de la Jeunesse et des Sports
-    - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 3ed2f725-e077-4973-a531-498e13fc7861
-    - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/AFB-dataviz:
   service_of:
@@ -1250,6 +1250,8 @@ https://github.com/AgenceBio:
     - b229dc20-19e9-4580-8fa6-0031692edd82
 
 https://github.com/BaseAdresseNationale:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -1291,7 +1293,6 @@ https://github.com/DREAL-NA:
   pso_id:
     - 906c4429-dd29-48b2-8a0a-e069ee504f0e
 
-# Not sure
 https://github.com/Envinorma:
   service_of:
     - Ministère de la Transition Écologique et Solidaire
@@ -1329,12 +1330,12 @@ https://github.com/SocieteNumerique:
     - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/addok:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/afimb:
   service_of:
@@ -1349,12 +1350,12 @@ https://github.com/ambanum:
     - 2ea3b100-fdc4-4b94-81d2-60d213df2bdc
 
 https://github.com/anct-cnum:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/anct-carto:
   service_of:
@@ -1371,26 +1372,20 @@ https://github.com/banquedefrance:
 https://github.com/clipos-archive:
   service_of:
     - Agence nationale de la sécurité des systèmes d'information
-    - Secrétariat général de la Défense et de la Sécurité nationale
   pso_id:
     - 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    - bce35003-da80-4f7b-abf7-51ed29887969
 
 https://github.com/clipos:
   service_of:
     - Agence nationale de la sécurité des systèmes d'information
-    - Secrétariat général de la Défense et de la Sécurité nationale
   pso_id:
     - 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    - bce35003-da80-4f7b-abf7-51ed29887969
 
 https://github.com/cnigfr:
   service_of:
     - Conseil national de l'information géolocalisée
-    - Ministère de la Transition écologique et de la Cohésion des territoires
   pso_id:
     - c964d4ac-3042-4cd6-b076-758ca8966a3e
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/communaute-cimi:
   service_of:
@@ -1399,12 +1394,12 @@ https://github.com/communaute-cimi:
     - fa33b07a-3f71-46d4-b682-569c9faf211e
 
 https://github.com/consultation-gouv:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/cour-des-comptes:
   service_of:
@@ -1427,10 +1422,8 @@ https://github.com/cstb:
 https://github.com/cw-leia:
   service_of:
     - Agence nationale de la sécurité des systèmes d'information
-    - Secrétariat général de la Défense et de la Sécurité nationale
   pso_id:
     - 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    - bce35003-da80-4f7b-abf7-51ed29887969
 
 https://github.com/datalab-mi:
   service_of:
@@ -1441,15 +1434,12 @@ https://github.com/datalab-mi:
 https://github.com/dfir-orc:
   service_of:
     - Agence nationale de la sécurité des systèmes d'information
-    - Secrétariat général de la Défense et de la Sécurité nationale
   pso_id:
     - 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    - bce35003-da80-4f7b-abf7-51ed29887969
 
 https://github.com/dgac:
   service_of:
     - Direction générale de l'Aviation civile
-    - Ministère de la Transition Écologique et Solidaire
   pso_id:
     - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
@@ -1479,33 +1469,26 @@ https://github.com/geobretagne:
     - 00000000-0000-0000-0000-000000000000
 
 https://github.com/geodatagouv:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/georchestra:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/plasmabio:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
-
-# Not sure
-https://github.com/OCSInventory-NG:
-  service_of:
-    - Ministère de l'Intérieur
-  pso_id:
-    - fa33b07a-3f71-46d4-b682-569c9faf211e
 
 https://github.com/gouvernementfr:
   service_of:
@@ -1516,20 +1499,14 @@ https://github.com/gouvernementfr:
 https://github.com/leximpact:
   service_of:
     - Assemblée Nationale
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - bffc950d-cc09-4a75-abab-97f7350a05d7
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/meteofrance:
   service_of:
     - Météo France
-    - Ministère de la Transition écologique
   pso_id:
     - 8a787d4b-2fad-4870-9baf-f9387defaf28
-    - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
 https://github.com/micmacIGN:
   service_of:
@@ -1580,6 +1557,8 @@ https://github.com/region-bretagne:
     - 00000000-0000-0000-0000-000000000000
 
 https://github.com/signaux-faibles:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -1595,31 +1574,20 @@ https://github.com/sigrennesmetropole:
 https://github.com/snosan-tools:
   service_of:
     - Ministère de la Mer
-    - Ministère chargé des sports
-    - Ministère de l'Intérieur
   pso_id:
-    - fa33b07a-3f71-46d4-b682-569c9faf211e
-    - 2fd089d2-669f-4a91-80b2-b345db391349
     - fa33b07a-3f71-46d4-b682-569c9faf211e
 
-# Not sure
 https://github.com/spyrales:
   service_of:
-    - Ministère de l'Économie, des Finances et de la Relance
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
+    - Institut national de la statistique et des études économiques (Insee) - Direction générale
   pso_id:
-    - c4195774-f535-4d82-b03f-d5f0c6b08635
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
+    - 278bf3d4-9cf3-4a36-a317-ec56fb0abc52
 
 https://github.com/wookey-project:
   service_of:
     - Agence nationale de la sécurité des systèmes d'information
-    - Secrétariat général de la Défense et de la Sécurité nationale
   pso_id:
     - 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    - bce35003-da80-4f7b-abf7-51ed29887969
 
 https://gitlab.adullact.net/departements-notaires:
   service_of:
@@ -1744,14 +1712,13 @@ https://git.leximpact.dev:
     - 7bc12104-b232-46a6-a6d7-85bcf2dfccf1
 
 https://framagit.org/openfisca:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
-# Not sure
 https://gitlab.com/e-combox:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -1958,14 +1925,12 @@ https://gitlab.inha.fr:
   pso_id:
     - 7aad474e-3588-482c-bba7-f7487122722a
 
-# Not sure
 https://github.com/picty:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-# Not sure
 https://github.com/caradoc-org:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -2053,7 +2018,6 @@ https://gitlabev.imtbs-tsp.eu:
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-# Not sure
 https://gitlab.labocleo.org:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -2149,7 +2113,6 @@ https://gitlab.softwareheritage.org:
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
 
-# Not sure
 https://lab.unif.app:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -2162,14 +2125,12 @@ https://github.com/scikit-learn:
   pso_id:
     - 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
 
-# Not sure
 https://github.com/gammapy:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
-# Not sure
 https://github.com/gama-platform:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
@@ -2231,21 +2192,13 @@ https://gitlab.villejuif.fr:
   pso_id:
     - 00000000-0000-0000-0000-000000000000
 
-https://github.com/dinum-operateur:
-  service_of:
-    - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
-  pso_id:
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
-
 https://github.com/agora-gouv:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://gitlab.utc.fr:
   service_of:
@@ -2340,12 +2293,12 @@ https://github.com/Semantic-Data-for-Humanities:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/demarches-simplifiees:
+  floss_policy:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - d1a97841-b4bf-46df-a089-1003e4e266b4
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/gip-inclusion:
   service_of:
@@ -2410,7 +2363,6 @@ https://github.com/UMR-CNRM:
     - 8a787d4b-2fad-4870-9baf-f9387defaf28
     - 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
 
-# Not sure
 https://gitlab.com/drieat-if:
   service_of:
     - Ministère de la Transition écologique
