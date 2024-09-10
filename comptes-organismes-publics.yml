@@ -1,29 +1,31 @@
-# Ce fichier contient la liste des forges et des comptes
-# d'organisation référencés dans https://code.gouv.fr/sources/.
+# This file contains the list of forges and organization accounts
+# referenced in https://code.gouv.fr/sources/.
 #
-# Vous pouvez proposer des ajouts à ce fichier en contribuant au dépôt.
+# You can propose additions to this file by contributing to the repository.
 #
-# Pour chaque entrée, vous pouvez indiquer :
+# For each entry, you can indicate:
 #
 # - service_of:
-#   Le nom de l'organisme public auquel elle est associée
+#   The name of the public organization to which it is associated
 #
 # - ignored_since:
-#   Si la forge doit être ignorée (is elle renvoie une erreur 500
-#   par exemple.)
+#   If the forge should be ignored (for example, if it returns a 500 error)
 #
 # - pso_id:
-#   L'identifiant de l'organisme sur https://lannuaire.service-public.fr
+#   The organization's identifier on https://lannuaire.service-public.fr
 #
-# Le "service_of" est facultatif.
-# Le "pso_id" est fortement recommandé.
-# Le "ignored_since" ne doit être ajouté que si nécessaire.
+# - ospo_url:
+#   The link to the Open Source Programme Office that manages the project
 #
-# En cas de doute, vous pouvez nous écrire: contact@code.gouv.fr
+# The "service_of" is optional.
+# The "pso_id" is strongly recommended.
+# The "ignored_since" should only be added if necessary.
 #
-# Le script src/export-comptes-organismes-publics.clj exporte ce
-# fichier dans un fichier du même nom respectant les spécifications
-# documentées dans docs/comptes-organismes-publics_specs.md.
+# If in doubt, you can write to us at: contact@code.gouv.fr
+#
+# The script src/export-comptes-organismes-publics.clj exports this
+# file into a file of the same name respecting the specifications
+# documented in docs/comptes-organismes-publics_specs.md.
 
 https://git.lias-lab.fr:
   ignored_since: 2024-08-09
@@ -431,6 +433,8 @@ https://github.com/SimPLU3D:
 https://github.com/SocialGouv:
   floss_policy:
     - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+  ospo_url:
+    - https://socialgouv.github.io
   service_of:
     - Mission Fabrique numérique (FabNum)
   pso_id:
@@ -573,6 +577,8 @@ https://github.com/dataesr:
 https://github.com/dinum-HubEE:
   floss_policy:
     - https://code.gouv.fr
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -580,6 +586,8 @@ https://github.com/dinum-HubEE:
 
 https://github.com/disic:
   floss_policy:
+    - https://code.gouv.fr
+  ospo_url:
     - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
@@ -641,6 +649,8 @@ https://github.com/etalab-ia:
 https://github.com/datagouv:
   floss_policy:
     - https://code.gouv.fr
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -657,6 +667,8 @@ https://gitlab.com/etalab-datalab:
 https://github.com/codegouvfr:
   floss_policy:
     - https://code.gouv.fr/fr/mission/#politique-logiciels-libres
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -695,6 +707,8 @@ https://github.com/fabnumdef:
 https://github.com/france-connect:
   floss_policy:
     - https://code.gouv.fr
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -723,6 +737,8 @@ https://github.com/genotoul-bioinfo:
 https://github.com/gip-recia:
   service_of:
     - Fonction publique territoriale
+  ospo_url:
+    - https://www.recia.fr/innovation-logiciels-libres
   pso_id:
     - 00000000-0000-0000-0000-000000000000
 
@@ -848,6 +864,8 @@ https://github.com/numerique-gouv:
 https://github.com/dinsic-gouv:
   floss_policy:
     - https://code.gouv.fr
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -870,6 +888,8 @@ https://github.com/opendatateam:
 https://github.com/openfun:
   service_of:
     - Ministère de l'enseignement supérieur et de la recherche
+  ospo_url:
+    - https://www.france-universite-numerique.fr
   pso_id:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
@@ -929,6 +949,8 @@ https://github.com/sympa-community:
 
 https://github.com/tchapgouv:
   floss_policy:
+    - https://code.gouv.fr
+  ospo_url:
     - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
@@ -1041,6 +1063,8 @@ https://gitlab.has-sante.fr:
 
 https://gitlab.com/healthdatahub:
   floss_policy:
+    - https://www.health-data-hub.fr/open-source
+  ospo_url:
     - https://www.health-data-hub.fr/open-source
   service_of:
     - Ministère des Solidarités et de la Santé
@@ -1252,6 +1276,8 @@ https://github.com/AgenceBio:
 https://github.com/BaseAdresseNationale:
   floss_policy:
     - https://code.gouv.fr
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -1332,6 +1358,8 @@ https://github.com/SocieteNumerique:
 https://github.com/addok:
   floss_policy:
     - https://code.gouv.fr
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -1350,12 +1378,10 @@ https://github.com/ambanum:
     - 2ea3b100-fdc4-4b94-81d2-60d213df2bdc
 
 https://github.com/anct-cnum:
-  floss_policy:
-    - https://code.gouv.fr
   service_of:
-    - Direction interministérielle du numérique
+    - Agence nationale de la cohésion des territoires (ANCT)
   pso_id:
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
+    - da837b24-afa7-46ab-b56a-427dd4bcc159
 
 https://github.com/anct-carto:
   service_of:
@@ -1395,6 +1421,8 @@ https://github.com/communaute-cimi:
 
 https://github.com/consultation-gouv:
   floss_policy:
+    - https://code.gouv.fr
+  ospo_url:
     - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
@@ -1471,13 +1499,7 @@ https://github.com/geobretagne:
 https://github.com/geodatagouv:
   floss_policy:
     - https://code.gouv.fr
-  service_of:
-    - Direction interministérielle du numérique
-  pso_id:
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
-
-https://github.com/georchestra:
-  floss_policy:
+  ospo_url:
     - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
@@ -1557,12 +1579,10 @@ https://github.com/region-bretagne:
     - 00000000-0000-0000-0000-000000000000
 
 https://github.com/signaux-faibles:
-  floss_policy:
-    - https://code.gouv.fr
   service_of:
-    - Direction interministérielle du numérique
+    - Ministère de l'Économie, des Finances et de la Relance
   pso_id:
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
+    - c4195774-f535-4d82-b03f-d5f0c6b08635
 
 https://github.com/sigrennesmetropole:
   service_of:
@@ -1596,6 +1616,8 @@ https://gitlab.adullact.net/departements-notaires:
     - 7bc12104-b232-46a6-a6d7-85bcf2dfccf1
 
 https://gitlab.adullact.net/gip-recia-snc:
+  ospo_url:
+    - https://www.recia.fr/innovation-logiciels-libres/
   service_of:
     - Région Centre Val de Loire
     - Fonction publique territoriale
@@ -1714,6 +1736,8 @@ https://git.leximpact.dev:
 https://framagit.org/openfisca:
   floss_policy:
     - https://code.gouv.fr
+  ospo_url:
+    - https://code.gouv.fr
   service_of:
     - Direction interministérielle du numérique
   pso_id:
@@ -1831,6 +1855,8 @@ https://github.com/lutece-secteur-public:
   service_of:
     - Mairie de Paris
     - Fonction publique territoriale
+  ospo_url:
+    - https://opensource.paris.fr
   pso_id:
     - 00000000-0000-0000-0000-000000000000
 
@@ -2046,10 +2072,8 @@ https://gitlab.univ-nantes.fr:
 https://github.com/DITP-pilotage:
   service_of:
     - Direction interministérielle de la transformation publique
-    - Ministère de la transformation et de la fonction publiques
   pso_id:
     - c1c38bcd-449f-47e5-9207-a9b573597a55
-    - 9f101ac7-9a0e-4d62-8b27-8109876dff94
 
 https://github.com/medInria:
   service_of:
@@ -2193,12 +2217,10 @@ https://gitlab.villejuif.fr:
     - 00000000-0000-0000-0000-000000000000
 
 https://github.com/agora-gouv:
-  floss_policy:
-    - https://code.gouv.fr
   service_of:
-    - Direction interministérielle du numérique
+    - Direction interministérielle de la transformation publique
   pso_id:
-    - d1a97841-b4bf-46df-a089-1003e4e266b4
+    - c1c38bcd-449f-47e5-9207-a9b573597a55
 
 https://gitlab.utc.fr:
   service_of:
@@ -2293,6 +2315,8 @@ https://github.com/Semantic-Data-for-Humanities:
     - 4ca60afd-3886-434c-80bb-f6bc55581323
 
 https://github.com/demarches-simplifiees:
+  ospo_url:
+    - https://code.gouv.fr
   floss_policy:
     - https://code.gouv.fr
   service_of:
