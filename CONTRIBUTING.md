@@ -4,7 +4,7 @@ You can contribute by sending your patches to `~codegouvfr/dev@lists.sr.ht`.  Re
 
     git config format.subjectPrefix ‘PATCH codegouvfr-data’.
 
-Commit messages are preferably written in English.
+Commit messages should be written in English.
 
 You can also create an account on <https://sr.ht> and send us your username, we will give you write access and you can publish your contributions directly on the `main` branch.
 
