@@ -3,7 +3,7 @@
 
 # Presentation
 
-This repository contains data useful for the services offered by
+This repository contains data used for services offered by
 [code.gouv.fr](https://code.gouv.fr.)
 
 # Data
@@ -11,6 +11,7 @@ This repository contains data useful for the services offered by
 - comptes-organismes-publics.yml: public sector organisation accounts
 - formations-logiciels-libres.yml: free software training courses offered by private players
 - awesome-codegouvfr.yml: list of projects identified as ‘Awesome’.
+- top\_organizations.yml: list of top organizations used for annuaire\_sup.json.
 
 # [Contribute](CONTRIBUTE.md)
 
