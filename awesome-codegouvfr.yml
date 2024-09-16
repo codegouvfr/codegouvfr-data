@@ -2,11 +2,11 @@
 #
 # For each of these repositories, the code.gouv.fr team checked that:
 #
-# - the source code is published under an open source licence;
+# - the source code is published under a Free Software / Open Source license;
 # - the project is actively maintained by one or more contactable maintainers;
 # - the project is well documented;
 # - the project is currently sponsored by one or more public administrations;
-# - the project is currently used (i.e. deployed) by several public administrations;
+# - the project is currently used/deployed by several public administrations.
 #
 # Each item is of the form:
 #
@@ -19,9 +19,6 @@
 
 https://github.com/CatalaLang/catala:
   added: 2023-11-30
-  fundedBy:
-    - name: Institut National de Recherche en Informatique et en Automatique (INRIA)
-      url: https://team.inria.fr/prosecco/
 
 https://github.com/DISIC/Ara:
   added: 2023-11-30
@@ -29,15 +26,9 @@ https://github.com/DISIC/Ara:
 https://github.com/EsupPortail/Esup-Pod:
   added: 2024-04-08
   latestTestedInstallationDate: 2024-03-28
-  fundedBy:
-    - name: Consortium Esup-Portail / Université de Lille
-      url: https://www.esup-portail.org/
 
 https://github.com/InseeFrLab/onyxia:
   added: 2023-11-30
-  fundedBy:
-    - name: Insee
-      url: https://lannuaire.service-public.fr/gouvernement/278bf3d4-9cf3-4a36-a317-ec56fb0abc52
 
 https://github.com/ProgrammeVitam/vitam:
   added: 2023-11-30
