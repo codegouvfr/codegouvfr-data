@@ -1,0 +1,21 @@
+# This file lists Open Source Programme Office or Free Software units
+# in the French public sector.
+#
+# Each entry is of the form:
+# 
+# [URL]: the URL of the OSPO
+#   name: the name of the OSPO
+#   created: the creation date of the OSPO
+#   floss_policy: the FLOSS policy published by the OSPO
+
+https://code.gouv.fr:
+   name: Mission logiciels libres de la DINUM
+   created: 2021-11-08
+   floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
+
+https://opensource.paris.fr:
+https://opensource.amue.fr:
+https://www.health-data-hub.fr/open-source:
+https://www.france-universite-numerique.fr:
+https://socialgouv.github.io:
+https://www.recia.fr/innovation-logiciels-libres:
