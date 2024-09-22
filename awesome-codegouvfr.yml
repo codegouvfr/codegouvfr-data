@@ -20,8 +20,8 @@
 https://github.com/CatalaLang/catala:
   added: 2023-11-30
 
-https://github.com/DISIC/Ara:
-  added: 2023-11-30
+# https://github.com/DISIC/Ara:
+#   added: 2023-11-30
 
 https://github.com/EsupPortail/Esup-Pod:
   added: 2024-04-08
@@ -30,15 +30,15 @@ https://github.com/EsupPortail/Esup-Pod:
 https://github.com/InseeFrLab/onyxia:
   added: 2023-11-30
 
-https://github.com/ProgrammeVitam/vitam:
-  added: 2023-11-30
-  fundedBy:
-    - name: Ministère de la Culture
-      url: https://lannuaire.service-public.fr/gouvernement/da1d6275-6710-485d-a249-282cac69dfe7
-    - name: Ministère de l'Europe et des Affaires étrangères
-      url: https://lannuaire.service-public.fr/gouvernement/ac1a7fdb-50f4-4599-b306-ec06b7250965
-    - name: Ministère des Armées
-      url: https://lannuaire.service-public.fr/gouvernement/d24d1af2-c506-4b10-82e8-ab92b8e959d2
+# https://github.com/ProgrammeVitam/vitam:
+#   added: 2023-11-30
+#   fundedBy:
+#     - name: Ministère de la Culture
+#       url: https://lannuaire.service-public.fr/gouvernement/da1d6275-6710-485d-a249-282cac69dfe7
+#     - name: Ministère de l'Europe et des Affaires étrangères
+#       url: https://lannuaire.service-public.fr/gouvernement/ac1a7fdb-50f4-4599-b306-ec06b7250965
+#     - name: Ministère des Armées
+#       url: https://lannuaire.service-public.fr/gouvernement/d24d1af2-c506-4b10-82e8-ab92b8e959d2
 
 https://github.com/SocialGouv/archifiltre-docs:
   added: 2023-11-30
@@ -64,8 +64,8 @@ https://github.com/codegouvfr/react-dsfr:
 https://github.com/demarches-simplifiees/demarches-simplifiees.fr:
   added: 2023-11-30
 
-https://github.com/etalab/decoupage-administratif:
-  added: 2023-11-30
+# https://github.com/etalab/decoupage-administratif:
+#   added: 2023-11-30
 
 https://github.com/numerique-gouv/sites-faciles:
   added: 2023-11-30
@@ -76,8 +76,8 @@ https://github.com/numerique-gouv/django-dsfr:
 https://github.com/opendatateam/udata:
   added: 2023-11-30
 
-https://github.com/openfisca/openfisca-france:
-  added: 2023-11-30
+# https://github.com/openfisca/openfisca-france:
+#   added: 2023-11-30
 
 https://github.com/publicodes/publicodes:
   added: 2023-11-30
