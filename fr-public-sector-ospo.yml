@@ -5,13 +5,21 @@
 # 
 # [URL]: the URL of the OSPO
 #   name: the name of the OSPO
+#   email: the contact email
+#   pso_id: public sector organization id from https://lannuaire.service-public.fr
 #   created: the creation date of the OSPO
 #   floss_policy: the FLOSS policy published by the OSPO
 
 https://code.gouv.fr:
    name: Mission logiciels libres de la DINUM
+   email: contact@code.gouv.fr
    created: 2021-11-08
+   pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
    floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
+
+https://github.com/ignf:
+   name: OSPO de l'IGN
+   created: 2024-01-01
 
 https://opensource.paris.fr:
 https://opensource.amue.fr:
