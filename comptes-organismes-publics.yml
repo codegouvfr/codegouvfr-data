@@ -274,10 +274,6 @@ framagit.org:
       pso_id: e5f85488-21e6-40d5-ae47-7f654dbbfde0
     datatourisme:
       pso_id: c29540a1-a126-434d-a6dc-a0236eefeec6
-    openfisca:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
 
 gitlabjf.ccomptes.fr:
   forge: gitlab
