@@ -86,7 +86,7 @@ gitlab.com:
   owners:
     etalab-datalab:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     incubateur-territoires:
       pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
       floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
@@ -154,7 +154,7 @@ git.sr.ht:
   owners:
     ~codegouvfr:
       pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
-      floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
 
 gitlab.factory.social.gouv.fr:
   forge: gitlab
@@ -269,7 +269,7 @@ framagit.org:
   owners:
     etalab:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     synalp:
       pso_id: e5f85488-21e6-40d5-ae47-7f654dbbfde0
     datatourisme:
@@ -401,7 +401,7 @@ gitlab.adullact.net:
     dinum:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     socio-connect:
     soluris:
       pso_id: 00000000-0000-0000-0000-000000000000
@@ -638,11 +638,11 @@ github.com:
     dinum-HubEE:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     disic:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     diverse-project:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     dnum-mi:
@@ -655,23 +655,23 @@ github.com:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     entrepreneur-interet-general:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     eole:
       pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
     etalab-ia:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     datagouv:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     codegouvfr:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     etalab:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     ezpaarse-project:
       pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     fabnumdef:
@@ -680,7 +680,7 @@ github.com:
     france-connect:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     gammalib:
       pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
     gemoc:
@@ -715,7 +715,7 @@ github.com:
       pso_id: bdc74bab-083b-4cee-bc50-c1b14e7860ea
     matchid-project:
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     medialab:
       pso_id: 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
       floss_policy: https://medialab.sciencespo.fr/a-propos/#deontology
@@ -731,12 +731,12 @@ github.com:
     dinsic-gouv:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     ocaml:
       pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     opendatateam:
       pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     openfun:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
       ospo_url: https://www.france-universite-numerique.fr
@@ -755,13 +755,13 @@ github.com:
       pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     sgmap-agd:
       pso_id: 07854219-507d-4f92-b4db-601a36c62f7c
-      floss_policy: https://www.etalab.gouv.fr/accompagnement-logiciels-libres
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     sympa-community:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     tchapgouv:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     unistra:
       pso_id: 8d43f65b-9236-4938-bfa5-1c5c5049b33d
     vle-forge:
@@ -792,7 +792,7 @@ github.com:
     BaseAdresseNationale:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     Bibliome:
       pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     CEREMA:
@@ -820,7 +820,7 @@ github.com:
     addok:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     afimb:
       pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
     ambanum:
@@ -842,7 +842,7 @@ github.com:
     consultation-gouv:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     cour-des-comptes:
       pso_id: 6d3b7be4-3b13-45da-9836-4766e37bc569
     cre-dev:
@@ -868,7 +868,7 @@ github.com:
     geodatagouv:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     plasmabio:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     gouvernementfr:
@@ -991,7 +991,7 @@ github.com:
     demarches-simplifiees:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     gip-inclusion:
       pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
     rusticata:
