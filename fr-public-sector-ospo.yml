@@ -17,13 +17,16 @@ https://code.gouv.fr:
    pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
    floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
 
+# https://opensource.ign.fr
 https://github.com/ignf:
    name: OSPO de l'IGN
-   created: 2024-01-01
+   created: 2024-01-29
+   email: opensource@ign.fr
 
-https://opensource.paris.fr:
-https://opensource.amue.fr:
-https://www.health-data-hub.fr/open-source:
-https://www.france-universite-numerique.fr:
-https://socialgouv.github.io:
-https://www.recia.fr/innovation-logiciels-libres:
+# https://opensource.paris.fr:
+# https://opensource.amue.fr:
+# https://www.health-data-hub.fr/open-source:
+# https://www.france-universite-numerique.fr:
+# https://socialgouv.github.io:
+# https://www.recia.fr/innovation-logiciels-libres:
+# https://france-travail.io:
