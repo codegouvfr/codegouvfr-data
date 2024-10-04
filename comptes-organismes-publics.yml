@@ -501,8 +501,6 @@ github.com:
       pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     DGFiP:
       pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
-    DGTresor:
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
     DIVERSIFY-project:
       pso_id: f340dcf7-4af7-45e5-ae96-c78868373676
     DSI-Universite-Rennes2:
@@ -537,8 +535,6 @@ github.com:
       pso_id: c03acd84-37db-4e3e-ab2d-7dd0ab4323d7
     Inist-CNRS:
       pso_id: e5f85488-21e6-40d5-ae47-7f654dbbfde0
-    InriaMecsci:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     InterieurGouvFr:
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
     Irstea:
@@ -777,8 +773,6 @@ github.com:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     1024pix:
       pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
-    AFB-dataviz:
-      pso_id: e308ae1b-6b17-4428-a0bb-b43e7c951014
     ANSSI-FR:
       pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
     ARCEP-dev:
@@ -857,8 +851,6 @@ github.com:
       pso_id: ac1a7fdb-50f4-4599-b306-ec06b7250965
     dnum-socialgouv:
       pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
-    dsi-github:
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
     geobretagne:
       pso_id: 00000000-0000-0000-0000-000000000000
     geodatagouv:
@@ -881,8 +873,6 @@ github.com:
       pso_id: 00000000-0000-0000-0000-000000000000
     observatoire-territoires:
       pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-    orleans-metropole:
-      pso_id: 00000000-0000-0000-0000-000000000000
     polewebmaedi:
       pso_id: ac1a7fdb-50f4-4599-b306-ec06b7250965
     region-bretagne:
@@ -936,8 +926,6 @@ github.com:
       pso_id: 00000000-0000-0000-0000-000000000000
     PnX-SI:
       pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
-    administration-solrep:
-      pso_id: 0001945a-3c57-4271-b3cd-38ce8ff2c696
     ssmsi-diffusion:
       pso_id: eb716654-a790-448f-8a58-5972f589af88
     codedgafp:
