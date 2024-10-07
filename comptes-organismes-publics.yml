@@ -89,7 +89,7 @@ gitlab.com:
       floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
     incubateur-territoires:
       pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     BDNB:
       pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
     DREES_code:
@@ -102,7 +102,7 @@ gitlab.com:
       pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
     fabnum-minarm:
       pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     healthdatahub:
       pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
       ospo_url: https://www.health-data-hub.fr/open-source
@@ -543,7 +543,7 @@ github.com:
       pso_id: 0bd49a4f-6c84-4d66-b653-02bfc3bfa5d7
     LAB-MI:
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     LETG:
       pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     LaboratoryOfPlasmaPhysics:
@@ -552,12 +552,12 @@ github.com:
       pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
     MINAGRI-INITIAL:
       pso_id: 45e488a2-c977-487f-b62f-19b4d6504d9c
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     MLanguage:
       pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
     MTES-MCT:
       pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     MinistereSupRecherche:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     OPIDoR:
@@ -581,15 +581,15 @@ github.com:
     SocialGouv:
       pso_id: 361651ec-d4af-4c9f-b76f-e5f9ca19df4b
       ospo_url: https://socialgouv.github.io
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     Spirals-Team:
       pso_id: 2350726b-1199-48ef-8172-cd85fe151732
     StartupsPoleEmploi:
       pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     mission-apprentissage:
       pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     X-DataInitiative:
       pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
     abes-esr:
@@ -609,7 +609,7 @@ github.com:
       pso_id: e712b0eb-c2b1-4c41-adf2-e40974d093a3
     betagouv:
       pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     cea-hpc:
       pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
     cea-leti:
@@ -668,7 +668,7 @@ github.com:
       pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
     fabnumdef:
       pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
-      floss_policy: https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
     france-connect:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
