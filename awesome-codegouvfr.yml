@@ -2,7 +2,7 @@
 #
 # For each of these repositories, the code.gouv.fr team checked that:
 #
-# - the source code is published under a Free Software / Open Source license;
+# - the source code is published under a FSF- or OSI-approved license;
 # - the project is actively maintained by one or more contactable maintainers;
 # - the project is well documented;
 # - the project is currently sponsored by one or more public administrations;
@@ -13,9 +13,6 @@
 # repo_url:
 #   added: YYYY-MM-DD
 #   latestTestedInstallationDate: YYYY-MM-DD
-#   fundedBy:
-#     - name: NAME
-#       url: URL
 
 https://github.com/CatalaLang/catala:
   added: 2023-11-30
@@ -27,27 +24,11 @@ https://github.com/EsupPortail/Esup-Pod:
 https://github.com/InseeFrLab/onyxia:
   added: 2023-11-30
 
-# https://github.com/ProgrammeVitam/vitam:
-#   added: 2023-11-30
-#   fundedBy:
-#     - name: Ministère de la Culture
-#       url: https://lannuaire.service-public.fr/gouvernement/da1d6275-6710-485d-a249-282cac69dfe7
-#     - name: Ministère de l'Europe et des Affaires étrangères
-#       url: https://lannuaire.service-public.fr/gouvernement/ac1a7fdb-50f4-4599-b306-ec06b7250965
-#     - name: Ministère des Armées
-#       url: https://lannuaire.service-public.fr/gouvernement/d24d1af2-c506-4b10-82e8-ab92b8e959d2
-
 https://github.com/SocialGouv/archifiltre-docs:
   added: 2023-11-30
-  fundedBy:
-    - name: Ministère du Travail, de la Santé et des Solidarités
-    - url: https://lannuaire.service-public.fr/gouvernement/f130ad96-4a81-4eb4-a40c-0539edad5fff
 
 https://github.com/SocialGouv/dashlord:
   added: 2023-11-30
-  fundedBy:
-    - name: Fabrique numérique des ministères sociaux
-      url: https://www.fabrique.social.gouv.fr
 
 https://github.com/betagouv/django-magicauth:
   added: 2023-11-30
@@ -61,8 +42,8 @@ https://github.com/codegouvfr/react-dsfr:
 https://github.com/demarches-simplifiees/demarches-simplifiees.fr:
   added: 2023-11-30
 
-# https://github.com/etalab/decoupage-administratif:
-#   added: 2023-11-30
+https://github.com/etalab/decoupage-administratif:
+  added: 2023-11-30
 
 https://github.com/numerique-gouv/sites-faciles:
   added: 2023-11-30
@@ -75,14 +56,23 @@ https://github.com/opendatateam/udata:
 
 https://github.com/publicodes/publicodes:
   added: 2023-11-30
-  fundedBy:
-    - name: Urssaf Caisse Nationale
-      url: https://lannuaire.service-public.fr/gouvernement/2ebb4281-f836-48b6-9b15-4e305d2df145
-    - name: Ademe
-      url: https://lannuaire.service-public.fr/gouvernement/98505403-46c6-4d6c-9766-6c58bce9a221
-    - name: Dinum
-      url: https://lannuaire.service-public.fr/gouvernement/d1a97841-b4bf-46df-a089-1003e4e266b4
 
 https://github.com/spyrales/shinygouv:
   added: 2023-11-30
   latestTestedInstallationDate: 2023-08-24
+
+# https://github.com/ProgrammeVitam/vitam:
+#   added: 2023-11-30
+#   fundedBy:
+#     - name: Ministère de la Culture
+#       url: https://lannuaire.service-public.fr/gouvernement/da1d6275-6710-485d-a249-282cac69dfe7
+#     - name: Ministère de l'Europe et des Affaires étrangères
+#       url: https://lannuaire.service-public.fr/gouvernement/ac1a7fdb-50f4-4599-b306-ec06b7250965
+#     - name: Ministère des Armées
+#       url: https://lannuaire.service-public.fr/gouvernement/d24d1af2-c506-4b10-82e8-ab92b8e959d2
+
+# https://github.com/ocaml/ocaml:
+#   added: 2024-10-08
+
+# https://github.com/scikit-learn/scikit-learn:
+#   added: 2024-10-08
