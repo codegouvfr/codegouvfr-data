@@ -442,6 +442,10 @@ depot.lipn.univ-paris13.fr:
 forge.apps.education.fr:
   forge: gitlab
   pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+  owners:
+    reseau-certa:
+    iri:
+    incubateur:
 
 romeogit.univ-reims.fr:
   forge: gitlab
