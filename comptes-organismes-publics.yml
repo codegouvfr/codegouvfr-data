@@ -29,6 +29,628 @@
 #
 # If in doubt, you can write to us at: contact@code.gouv.fr
 
+gitlab.com:
+  forge: gitlab
+  owners:
+    etalab-datalab:
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    incubateur-territoires:
+      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    bdnb:
+      pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
+    drees_code:
+      pso_id: 929f8575-51b3-4977-8dcb-147b756de677
+    affelnet-lycee-group:
+      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+    arsante:
+      pso_id: 47a968b1-8dc3-4c51-a18c-2a13f757a16f
+    cortext:
+      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
+    fabnum-minarm:
+      pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    healthdatahub:
+      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+      ospo_url: https://www.health-data-hub.fr/open-source
+      floss_policy: https://www.health-data-hub.fr/open-source
+    musee-saint-raymond:
+      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
+      floss_policy: https://www.culture.gouv.fr/thematiques/innovation-numerique/publications/politique-du-ministere-de-la-culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
+    cstb:
+      pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
+    dreal-datalab:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    france-mobilites:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    hatvp-open:
+      pso_id: 6b3a3ea8-2808-4246-9be8-61ce80e569fd
+    pidila:
+      pso_id: 0001945a-3c57-4271-b3cd-38ce8ff2c696
+    rdes_dreal:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    e-combox:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    dai-projets:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    op18-enki:
+      pso_id: 1ff9c0dd-252f-42c8-8650-2f42945e8b84
+    capes-cafep-nsi:
+      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+    marshack:
+      pso_id: 6c2248ec-78e4-4009-abd7-b11e1e053f29
+    enit-idce:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    drieat-if:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    opendatafrance:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    validata-table:
+      pso_id: 00000000-0000-0000-0000-000000000000
+
+github.com:
+  forge: github
+  owners:
+    lias-laboratory:
+      pso_id: d886e04e-b4ad-4f72-8a74-41969fc5fe31
+    139bercy:
+      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
+    ac-rennes-opensource:
+      pso_id: ea7a37da-ed1c-4ebe-a4d3-bbdd048f9a37
+    antique-team:
+      pso_id: 2c14601d-dbd0-418b-9b41-76512f31532e
+    apiefrance:
+      pso_id: 0fde41be-b9be-4878-8ee3-9f57de359447
+    assurancemaladiesec:
+      pso_id: ff0017f1-00fd-4ac6-a423-f3cb0a99836e
+    barometre-de-la-science-ouverte:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    brgm:
+      pso_id: e5a27582-6342-4528-9d78-ef1c629f34fa
+    bibcnrs:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    ccsdforge:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    cnrs-dsi-dev:
+      pso_id: ecad061b-e200-4201-a4cd-10af9aceb934
+    catalalang:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    dgfip:
+      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
+    diversify-project:
+      pso_id: f340dcf7-4af7-45e5-ae96-c78868373676
+    dsi-universite-rennes2:
+      pso_id: a94fe690-dd65-4e9c-9429-b13bb5236166
+    deducteam:
+      pso_id: 74935183-7042-4ffc-a6cc-32f3421a3b26
+    delegation-numerique-en-sante:
+      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+    eds-aphp:
+      pso_id: fa56f607-5e33-4f7b-b9c7-87fe315abf06
+    esupportail:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    ghfc:
+      pso_id: 27b9c635-130e-447a-8551-c5d808c9f7e6
+    gendarmerienationale:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    geographie-cites:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    ignf:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    itowns:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    inhaparis:
+      pso_id: 7aad474e-3588-482c-bba7-f7487122722a
+    inra:
+      pso_id: fbddbc4f-6422-41b6-998f-cb88504bb1cf
+    inside-information-systems:
+      pso_id: e5a27582-6342-4528-9d78-ef1c629f34fa
+    icy-imaging:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    universite-gustave-eiffel:
+      pso_id: c03acd84-37db-4e3e-ab2d-7dd0ab4323d7
+    inist-cnrs:
+      pso_id: e5f85488-21e6-40d5-ae47-7f654dbbfde0
+    interieurgouvfr:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    irstea:
+      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
+    jmmc-opendev:
+      pso_id: 0bd49a4f-6c84-4d66-b653-02bfc3bfa5d7
+    lab-mi:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    letg:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    laboratoryofplasmaphysics:
+      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
+    lemonldapng:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    minagri-initial:
+      pso_id: 45e488a2-c977-487f-b62f-19b4d6504d9c
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    mlanguage:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    mtes-mct:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    ministeresuprecherche:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    opidor:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    openedition:
+      pso_id: c25e984d-5528-4ad8-a996-a10af5c4f5a1
+    openfluid:
+      pso_id: 63c76f67-96f2-4dcb-821f-d485e99b9bfb
+    pharehub:
+      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
+    programmevitam:
+      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
+      floss_policy: https://www.culture.gouv.fr/thematiques/innovation-numerique/publications/politique-du-ministere-de-la-culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
+    archivesnationalesfr:
+      pso_id: d60f8d14-d42e-4268-8ed6-ca712f369da6
+      floss_policy: https://www.culture.gouv.fr/thematiques/innovation-numerique/publications/politique-du-ministere-de-la-culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
+    sciqlop:
+      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
+    simplu3d:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    socialgouv:
+      pso_id: 361651ec-d4af-4c9f-b76f-e5f9ca19df4b
+      ospo_url: https://socialgouv.github.io
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    spirals-team:
+      pso_id: 2350726b-1199-48ef-8172-cd85fe151732
+    startupspoleemploi:
+      pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    mission-apprentissage:
+      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    x-datainitiative:
+      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
+    abes-esr:
+      pso_id: 978ee506-74dd-4634-a69e-ecbd7211d71e
+      floss_policy: https://github.com/abes-esr/abes-politique-developpement
+    ac-nantes-dec:
+      pso_id: a80ce22b-9b00-40b8-bc4e-151bdde9d1c5
+    academiepoitiers:
+      pso_id: cdc595a1-eb9b-49ef-a689-fceeebfabe0b
+    ansforge:
+      pso_id: a0e44306-21d2-4285-bf0d-75813afaed3e
+    aphp:
+      pso_id: bec0760f-c0b9-4c72-979f-fecf50de9320
+    assurance-maladie-digital:
+      pso_id: ff0017f1-00fd-4ac6-a423-f3cb0a99836e
+    atlanmod:
+      pso_id: e712b0eb-c2b1-4c41-adf2-e40974d093a3
+    betagouv:
+      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    cea-hpc:
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
+    cea-leti:
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
+    cea-list:
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
+    cea-sec:
+      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
+    coq:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    ctools:
+      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
+    culturecommunication:
+      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
+      floss_policy: https://www.culture.gouv.fr/thematiques/innovation-numerique/publications/politique-du-ministere-de-la-culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
+    dataesr:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    dinum-hubee:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    disic:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    diverse-project:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    dnum-mi:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    dsi-ehess:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    ecolabdata:
+      pso_id: bfe880bd-eb83-4922-a676-421a2bf01960
+    elabftw:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    entrepreneur-interet-general:
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    eole:
+      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+    etalab-ia:
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    datagouv:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    codegouvfr:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    etalab:
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    ezpaarse-project:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    fabnumdef:
+      pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
+      floss_policy: https://sillon.incubateur.net/docs/legal/license/
+    france-connect:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    gammalib:
+      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
+    gemoc:
+      pso_id: 95d0cc7d-2ee2-45a1-bdb7-7374a274cb55
+    genotoul-bioinfo:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    gip-recia:
+      pso_id: 00000000-0000-0000-0000-000000000000
+      ospo_url: https://www.recia.fr/innovation-logiciels-libres
+    histovec:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    ia-flash:
+      pso_id: 4b5e336d-feca-471b-86bd-8634e79e78b0
+    ifremer-bioinformatics:
+      pso_id: 2a7c45c1-a0fb-4130-82dd-9ced0b08424e
+    imagesdesmaths:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    ina-foss:
+      pso_id: 8fa935f8-8a4c-45f6-bbaa-b891895a0ece
+      floss_policy: https://www.culture.gouv.fr/thematiques/innovation-numerique/publications/politique-du-ministere-de-la-culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
+    inrae:
+      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
+    inria:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    iscpif:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    istex:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    ivre:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    linbox-team:
+      pso_id: bdc74bab-083b-4cee-bc50-c1b14e7860ea
+    matchid-project:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    medialab:
+      pso_id: 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
+      floss_policy: https://medialab.sciencespo.fr/a-propos/#deontology
+    ateliercartographie:
+      pso_id: 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
+      floss_policy: https://medialab.sciencespo.fr/a-propos/#deontology
+    metwork-framework:
+      pso_id: a65b434b-326b-41c2-b5b1-3071327d49bd
+    neuroanatomy:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    numerique-gouv:
+      pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
+    dinsic-gouv:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    opendatateam:
+      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    openfun:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+      ospo_url: https://www.france-universite-numerique.fr
+    openmole:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    panoramax-project:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    pass-culture:
+      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
+      floss_policy: https://www.culture.gouv.fr/thematiques/innovation-numerique/publications/politique-du-ministere-de-la-culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
+    plantnet:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    powerapi-ng:
+      pso_id: 2350726b-1199-48ef-8172-cd85fe151732
+    riatelab:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    sgmap-agd:
+      pso_id: 07854219-507d-4f92-b4db-601a36c62f7c
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    sympa-community:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    tchapgouv:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    unistra:
+      pso_id: 8d43f65b-9236-4938-bfa5-1c5c5049b33d
+    vle-forge:
+      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
+    ipgp:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    grame-cncm:
+      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
+      floss_policy: https://www.culture.gouv.fr/thematiques/innovation-numerique/publications/politique-du-ministere-de-la-culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
+    premierlangage:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    sofa-framework:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    sedfoam:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    fluiddyn:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    1024pix:
+      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+    anssi-fr:
+      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
+    arcep-dev:
+      pso_id: dcb1b07e-82e0-4ac9-809e-eff760af96e3
+    agencebio:
+      pso_id: b229dc20-19e9-4580-8fa6-0031692edd82
+    baseadressenationale:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    bibliome:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    cerema:
+      pso_id: 9d58ff50-1216-4a94-b629-800691efea25
+    codes-sources-de-la-justice:
+      pso_id: 7bc12104-b232-46a6-a6d7-85bcf2dfccf1
+    cour-de-cassation:
+      pso_id: c67a8733-b51c-49c4-9b5f-d319ddcb5df6
+    dga-mi-ssi:
+      pso_id: b930c079-f072-49f3-bccb-012b5a4b90f8
+    dreal-na:
+      pso_id: 906c4429-dd29-48b2-8a0a-e069ee504f0e
+    envinorma:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    irsn:
+      pso_id: 4254dc52-8ccc-4f2f-8a68-c98adb1ee170
+    inseefr:
+      pso_id: 278bf3d4-9cf3-4a36-a317-ec56fb0abc52
+    inseefrlab:
+      pso_id: 278bf3d4-9cf3-4a36-a317-ec56fb0abc52
+    lincnil:
+      pso_id: 9c74420e-4d29-4bd9-8629-091a233dddbb
+    societenumerique:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    addok:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    afimb:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    ambanum:
+      pso_id: 2ea3b100-fdc4-4b94-81d2-60d213df2bdc
+    anct-cnum:
+      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
+    anct-carto:
+      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
+    banquedefrance:
+      pso_id: 15c373bd-3034-4296-a990-533d0238a6ab
+    clipos-archive:
+      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
+    clipos:
+      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
+    cnigfr:
+      pso_id: c964d4ac-3042-4cd6-b076-758ca8966a3e
+    communaute-cimi:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    consultation-gouv:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    cour-des-comptes:
+      pso_id: 6d3b7be4-3b13-45da-9836-4766e37bc569
+    cre-dev:
+      pso_id: 088a9028-dfcd-431b-acf8-2e99d70d0c65
+    cstb:
+      pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
+    cw-leia:
+      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
+    datalab-mi:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    dfir-orc:
+      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
+    dgac:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    diplomatiegouvfr:
+      pso_id: ac1a7fdb-50f4-4599-b306-ec06b7250965
+    dnum-socialgouv:
+      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+    geobretagne:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    geodatagouv:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    plasmabio:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    gouvernementfr:
+      pso_id: 28697faa-754a-4e03-9934-35dfd92828f0
+    leximpact:
+      pso_id: bffc950d-cc09-4a75-abab-97f7350a05d7
+    meteofrance:
+      pso_id: 8a787d4b-2fad-4870-9baf-f9387defaf28
+    micmacign:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    nanterre:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    nantesmetropole:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    observatoire-territoires:
+      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
+    polewebmaedi:
+      pso_id: ac1a7fdb-50f4-4599-b306-ec06b7250965
+    region-bretagne:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    signaux-faibles:
+      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
+    sigrennesmetropole:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    snosan-tools:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    spyrales:
+      pso_id: 278bf3d4-9cf3-4a36-a317-ec56fb0abc52
+    wookey-project:
+      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
+    polymny:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    renater:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    dut-info-montreuil:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    france-travail:
+      pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
+    autoritedelaconcurrence:
+      pso_id: 9c7e6b7c-b793-40b2-a19b-a7dfeaa4792e
+    e-pshad:
+      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
+    biblissima:
+      pso_id: f444124b-3f4f-413a-b073-fd7f4a81ee6d
+    crillab:
+      pso_id: e166377e-4c43-4c85-88f2-867e1ed15a7b
+    antibes-dev:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    strasbourg:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    pncevennes:
+      pso_id: 6bc44db2-6f0e-4d4d-a7e4-b2fc6c036394
+    pnecrins:
+      pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
+    lutece-secteur-public:
+      pso_id: 00000000-0000-0000-0000-000000000000
+      ospo_url: https://opensource.paris.fr
+    lutece-platform:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    messagerie-melanie2:
+      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
+    radiofrance:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    datalocale:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    erasme:
+      pso_id: 00000000-0000-0000-0000-000000000000
+    pnx-si:
+      pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
+    ssmsi-diffusion:
+      pso_id: eb716654-a790-448f-8a58-5972f589af88
+    codedgafp:
+      pso_id: 5c499713-9859-43ef-b596-e56bdf4619bd
+    picty:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    caradoc-org:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    greyclab:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    dnum-sante-ars-data:
+      pso_id: d8a5ff98-67d3-405d-81b8-913829272ff8
+    ditp-pilotage:
+      pso_id: c1c38bcd-449f-47e5-9207-a9b573597a55
+    medinria:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    mimesis-inria:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    mmgtools:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    inria-empenn:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    vidjil:
+      pso_id: 2350726b-1199-48ef-8172-cd85fe151732
+    rmodinria:
+      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    pharo-mooc:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    openalea:
+      pso_id: 10c0f7c1-cf5e-4a3e-8c86-ab4a12e41c19
+    gammapy:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    gama-platform:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    pyshs:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    viginum-fr:
+      pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
+    agora-gouv:
+      pso_id: c1c38bcd-449f-47e5-9207-a9b573597a55
+    geovistory:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    semantic-data-for-humanities:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    demarches-simplifiees:
+      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
+      ospo_url: https://code.gouv.fr
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+    gip-inclusion:
+      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
+    rusticata:
+      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
+    cosae-fr:
+      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
+    accessidys:
+      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
+    ignf-ma-carte:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    spike-project:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    umr-cnrm:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+    cloud-pi-nativeg:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    inclusion-numerique:
+      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
+    okdp:
+      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
+    centreborelli:
+      pso_id: 74935183-7042-4ffc-a6cc-32f3421a3b26
+    pymodaq:
+      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
+    ignfab-minalac:
+      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
+    geotrekce:
+      pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
+    publicodes:
+      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
+    sipf:
+      pso_id: fefaa887-34d0-4031-806f-6c94fb01e527
+    openfisca:
+      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
+    interpretable:
+      pso_id: 9978f4d2-62b4-4e4d-b1fe-352b9990904a
+    france-data-reseau:
+      pso_id: 00000000-0000-0000-0000-000000000000
+
+gitlab.ow2.org:
+  forge: gitlab
+  owners:
+    lemonldap-ng:
+      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
+    sympa:
+      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
+
+forge.apps.education.fr:
+  forge: gitlab
+  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
+  owners:
+    reseau-certa:
+    iri:
+    incubateur:
+
+git.sr.ht:
+  forge: sourcehut
+  owners:
+    ~codegouvfr:
+      pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
+      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
+
 gitlab.orfeo-toolbox.org:
   forge: gitlab
   pso_id: df0845a5-af7d-4b35-b9d5-9d64bc53b8f9
@@ -81,66 +703,6 @@ gitlab-fil.univ-lille.fr:
   forge: gitlab
   pso_id: 2350726b-1199-48ef-8172-cd85fe151732
 
-gitlab.com:
-  forge: gitlab
-  owners:
-    etalab-datalab:
-      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    incubateur-territoires:
-      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    BDNB:
-      pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
-    DREES_code:
-      pso_id: 929f8575-51b3-4977-8dcb-147b756de677
-    affelnet-lycee-group:
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
-    arsante:
-      pso_id: 47a968b1-8dc3-4c51-a18c-2a13f757a16f
-    cortext:
-      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
-    fabnum-minarm:
-      pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    healthdatahub:
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
-      ospo_url: https://www.health-data-hub.fr/open-source
-      floss_policy: https://www.health-data-hub.fr/open-source
-    musee-saint-raymond:
-      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
-      floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    CSTB:
-      pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
-    dreal-datalab:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    france-mobilites:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    hatvp-open:
-      pso_id: 6b3a3ea8-2808-4246-9be8-61ce80e569fd
-    pidila:
-      pso_id: 0001945a-3c57-4271-b3cd-38ce8ff2c696
-    rdes_dreal:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    e-combox:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    dai-projets:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    op18-enki:
-      pso_id: 1ff9c0dd-252f-42c8-8650-2f42945e8b84
-    CAPES-CAFEP-NSI:
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
-    marshack:
-      pso_id: 6c2248ec-78e4-4009-abd7-b11e1e053f29
-    enit-idce:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    drieat-if:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    opendatafrance:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    validata-table:
-      pso_id: 00000000-0000-0000-0000-000000000000
-
 gitub.u-bordeaux.fr:
   forge: gitlab
   pso_id: ba1a0e00-3a3a-4fd3-860a-5b44a6d4ed4f
@@ -148,13 +710,6 @@ gitub.u-bordeaux.fr:
 gitlab.lip6.fr:
   forge: gitlab
   pso_id: 61d49a8d-790f-4ed1-a534-b44e9f10b875
-
-git.sr.ht:
-  forge: sourcehut
-  owners:
-    ~codegouvfr:
-      pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
 
 gitlab.factory.social.gouv.fr:
   forge: gitlab
@@ -373,7 +928,7 @@ gitlab.mobilites-m.fr:
 gitlab.adullact.net:
   forge: gitlab
   owners:
-    UPSud:
+    upsud:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     aife:
       pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
@@ -439,14 +994,6 @@ depot.lipn.univ-paris13.fr:
   forge: gitlab
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
-forge.apps.education.fr:
-  forge: gitlab
-  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
-  owners:
-    reseau-certa:
-    iri:
-    incubateur:
-
 romeogit.univ-reims.fr:
   forge: gitlab
   pso_id: 44285142-667f-4cde-a0fd-d657aedf1f9f
@@ -476,549 +1023,6 @@ git.leximpact.dev:
   forge: gitlab
   pso_id: 7bc12104-b232-46a6-a6d7-85bcf2dfccf1
 
-github.com:
-  forge: github
-  owners:
-    lias-laboratory:
-      pso_id: d886e04e-b4ad-4f72-8a74-41969fc5fe31
-    139bercy:
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
-    AC-Rennes-OpenSource:
-      pso_id: ea7a37da-ed1c-4ebe-a4d3-bbdd048f9a37
-    Antique-team:
-      pso_id: 2c14601d-dbd0-418b-9b41-76512f31532e
-    ApieFrance:
-      pso_id: 0fde41be-b9be-4878-8ee3-9f57de359447
-    AssuranceMaladieSec:
-      pso_id: ff0017f1-00fd-4ac6-a423-f3cb0a99836e
-    Barometre-de-la-Science-Ouverte:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    BRGM:
-      pso_id: e5a27582-6342-4528-9d78-ef1c629f34fa
-    BibCnrs:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    CCSDForge:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    CNRS-DSI-Dev:
-      pso_id: ecad061b-e200-4201-a4cd-10af9aceb934
-    CatalaLang:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    DGFiP:
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
-    DIVERSIFY-project:
-      pso_id: f340dcf7-4af7-45e5-ae96-c78868373676
-    DSI-Universite-Rennes2:
-      pso_id: a94fe690-dd65-4e9c-9429-b13bb5236166
-    Deducteam:
-      pso_id: 74935183-7042-4ffc-a6cc-32f3421a3b26
-    Delegation-numerique-en-sante:
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
-    EDS-APHP:
-      pso_id: fa56f607-5e33-4f7b-b9c7-87fe315abf06
-    EsupPortail:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    GHFC:
-      pso_id: 27b9c635-130e-447a-8551-c5d808c9f7e6
-    GendarmerieNationale:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    Geographie-cites:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    IGNF:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    iTowns:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    INHAParis:
-      pso_id: 7aad474e-3588-482c-bba7-f7487122722a
-    INRA:
-      pso_id: fbddbc4f-6422-41b6-998f-cb88504bb1cf
-    INSIDE-information-systems:
-      pso_id: e5a27582-6342-4528-9d78-ef1c629f34fa
-    Icy-imaging:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    Universite-Gustave-Eiffel:
-      pso_id: c03acd84-37db-4e3e-ab2d-7dd0ab4323d7
-    Inist-CNRS:
-      pso_id: e5f85488-21e6-40d5-ae47-7f654dbbfde0
-    InterieurGouvFr:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    Irstea:
-      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
-    JMMC-OpenDev:
-      pso_id: 0bd49a4f-6c84-4d66-b653-02bfc3bfa5d7
-    LAB-MI:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    LETG:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    LaboratoryOfPlasmaPhysics:
-      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
-    LemonLDAPNG:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    MINAGRI-INITIAL:
-      pso_id: 45e488a2-c977-487f-b62f-19b4d6504d9c
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    MLanguage:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    MTES-MCT:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    MinistereSupRecherche:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    OPIDoR:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    OpenEdition:
-      pso_id: c25e984d-5528-4ad8-a996-a10af5c4f5a1
-    OpenFLUID:
-      pso_id: 63c76f67-96f2-4dcb-821f-d485e99b9bfb
-    PHAREHUB:
-      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
-    ProgrammeVitam:
-      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
-      floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    ArchivesNationalesFR:
-      pso_id: d60f8d14-d42e-4268-8ed6-ca712f369da6
-      floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    SciQLop:
-      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
-    SimPLU3D:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    SocialGouv:
-      pso_id: 361651ec-d4af-4c9f-b76f-e5f9ca19df4b
-      ospo_url: https://socialgouv.github.io
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    Spirals-Team:
-      pso_id: 2350726b-1199-48ef-8172-cd85fe151732
-    StartupsPoleEmploi:
-      pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    mission-apprentissage:
-      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    X-DataInitiative:
-      pso_id: 4b02f0cb-5a43-4aea-ab3f-22a2173cdf3c
-    abes-esr:
-      pso_id: 978ee506-74dd-4634-a69e-ecbd7211d71e
-      floss_policy: https://github.com/abes-esr/abes-politique-developpement
-    ac-nantes-dec:
-      pso_id: a80ce22b-9b00-40b8-bc4e-151bdde9d1c5
-    academiePoitiers:
-      pso_id: cdc595a1-eb9b-49ef-a689-fceeebfabe0b
-    ansforge:
-      pso_id: a0e44306-21d2-4285-bf0d-75813afaed3e
-    aphp:
-      pso_id: bec0760f-c0b9-4c72-979f-fecf50de9320
-    assurance-maladie-digital:
-      pso_id: ff0017f1-00fd-4ac6-a423-f3cb0a99836e
-    atlanmod:
-      pso_id: e712b0eb-c2b1-4c41-adf2-e40974d093a3
-    betagouv:
-      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    cea-hpc:
-      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    cea-leti:
-      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    cea-list:
-      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    cea-sec:
-      pso_id: ba5b2f74-2e09-4a35-a6b7-086cd3064cca
-    coq:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    ctools:
-      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
-    culturecommunication:
-      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
-      floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    dataesr:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    dinum-HubEE:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    disic:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    diverse-project:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    dnum-mi:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    dsi-ehess:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    ecolabdata:
-      pso_id: bfe880bd-eb83-4922-a676-421a2bf01960
-    elabftw:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    entrepreneur-interet-general:
-      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    eole:
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
-    etalab-ia:
-      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    datagouv:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    codegouvfr:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    etalab:
-      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    ezpaarse-project:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    fabnumdef:
-      pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
-      floss_policy: https://sillon.incubateur.net/docs/legal/license/
-    france-connect:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    gammalib:
-      pso_id: 96d42f91-76ee-4896-bae2-5c0d5b99c0ee
-    gemoc:
-      pso_id: 95d0cc7d-2ee2-45a1-bdb7-7374a274cb55
-    genotoul-bioinfo:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    gip-recia:
-      pso_id: 00000000-0000-0000-0000-000000000000
-      ospo_url: https://www.recia.fr/innovation-logiciels-libres
-    histovec:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    ia-flash:
-      pso_id: 4b5e336d-feca-471b-86bd-8634e79e78b0
-    ifremer-bioinformatics:
-      pso_id: 2a7c45c1-a0fb-4130-82dd-9ced0b08424e
-    imagesdesmaths:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    ina-foss:
-      pso_id: 8fa935f8-8a4c-45f6-bbaa-b891895a0ece
-      floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    inrae:
-      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
-    inria:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    iscpif:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    istex:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    ivre:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    linbox-team:
-      pso_id: bdc74bab-083b-4cee-bc50-c1b14e7860ea
-    matchid-project:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    medialab:
-      pso_id: 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
-      floss_policy: https://medialab.sciencespo.fr/a-propos/#deontology
-    AtelierCartographie:
-      pso_id: 5088d2a9-afa1-4d7b-98c3-d2a25ae99167
-      floss_policy: https://medialab.sciencespo.fr/a-propos/#deontology
-    metwork-framework:
-      pso_id: a65b434b-326b-41c2-b5b1-3071327d49bd
-    neuroanatomy:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    numerique-gouv:
-      pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
-    dinsic-gouv:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    ocaml:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    opendatateam:
-      pso_id: db2b74d4-4dbc-4d7d-ba1b-5762e2cb06b8
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    openfun:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-      ospo_url: https://www.france-universite-numerique.fr
-    openmole:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    panoramax-project:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    pass-culture:
-      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
-      floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    plantnet:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    powerapi-ng:
-      pso_id: 2350726b-1199-48ef-8172-cd85fe151732
-    riatelab:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    sgmap-agd:
-      pso_id: 07854219-507d-4f92-b4db-601a36c62f7c
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    sympa-community:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    tchapgouv:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    unistra:
-      pso_id: 8d43f65b-9236-4938-bfa5-1c5c5049b33d
-    vle-forge:
-      pso_id: 599da94e-8306-4e97-ab75-15d7a59af088
-    IPGP:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    grame-cncm:
-      pso_id: da1d6275-6710-485d-a249-282cac69dfe7
-      floss_policy: https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Publications/Politique-du-ministere-de-la-Culture-pour-les-codes-sources-algorithmes-et-logiciels-libres
-    premierlangage:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    sofa-framework:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    sedfoam:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    fluiddyn:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    1024pix:
-      pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
-    ANSSI-FR:
-      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    ARCEP-dev:
-      pso_id: dcb1b07e-82e0-4ac9-809e-eff760af96e3
-    AgenceBio:
-      pso_id: b229dc20-19e9-4580-8fa6-0031692edd82
-    BaseAdresseNationale:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    Bibliome:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    CEREMA:
-      pso_id: 9d58ff50-1216-4a94-b629-800691efea25
-    Codes-sources-de-la-justice:
-      pso_id: 7bc12104-b232-46a6-a6d7-85bcf2dfccf1
-    Cour-de-cassation:
-      pso_id: c67a8733-b51c-49c4-9b5f-d319ddcb5df6
-    DGA-MI-SSI:
-      pso_id: b930c079-f072-49f3-bccb-012b5a4b90f8
-    DREAL-NA:
-      pso_id: 906c4429-dd29-48b2-8a0a-e069ee504f0e
-    Envinorma:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    IRSN:
-      pso_id: 4254dc52-8ccc-4f2f-8a68-c98adb1ee170
-    InseeFr:
-      pso_id: 278bf3d4-9cf3-4a36-a317-ec56fb0abc52
-    InseeFrLab:
-      pso_id: 278bf3d4-9cf3-4a36-a317-ec56fb0abc52
-    LINCnil:
-      pso_id: 9c74420e-4d29-4bd9-8629-091a233dddbb
-    SocieteNumerique:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    addok:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    afimb:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    ambanum:
-      pso_id: 2ea3b100-fdc4-4b94-81d2-60d213df2bdc
-    anct-cnum:
-      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-    anct-carto:
-      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-    banquedefrance:
-      pso_id: 15c373bd-3034-4296-a990-533d0238a6ab
-    clipos-archive:
-      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    clipos:
-      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    cnigfr:
-      pso_id: c964d4ac-3042-4cd6-b076-758ca8966a3e
-    communaute-cimi:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    consultation-gouv:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    cour-des-comptes:
-      pso_id: 6d3b7be4-3b13-45da-9836-4766e37bc569
-    cre-dev:
-      pso_id: 088a9028-dfcd-431b-acf8-2e99d70d0c65
-    cstb:
-      pso_id: caf96dcf-432b-488b-8b18-7aa0dca9f14e
-    cw-leia:
-      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    datalab-mi:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    dfir-orc:
-      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    dgac:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    diplomatiegouvfr:
-      pso_id: ac1a7fdb-50f4-4599-b306-ec06b7250965
-    dnum-socialgouv:
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
-    geobretagne:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    geodatagouv:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    plasmabio:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    gouvernementfr:
-      pso_id: 28697faa-754a-4e03-9934-35dfd92828f0
-    leximpact:
-      pso_id: bffc950d-cc09-4a75-abab-97f7350a05d7
-    meteofrance:
-      pso_id: 8a787d4b-2fad-4870-9baf-f9387defaf28
-    micmacIGN:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    nanterre:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    nantesmetropole:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    observatoire-territoires:
-      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-    polewebmaedi:
-      pso_id: ac1a7fdb-50f4-4599-b306-ec06b7250965
-    region-bretagne:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    signaux-faibles:
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
-    sigrennesmetropole:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    snosan-tools:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    spyrales:
-      pso_id: 278bf3d4-9cf3-4a36-a317-ec56fb0abc52
-    wookey-project:
-      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    polymny:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    Renater:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    DUT-Info-Montreuil:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    france-travail:
-      pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
-    AutoriteDeLaConcurrence:
-      pso_id: 9c7e6b7c-b793-40b2-a19b-a7dfeaa4792e
-    e-PSHAD:
-      pso_id: 163a8b8e-8ebc-4fb7-8ed4-44fbb78110db
-    biblissima:
-      pso_id: f444124b-3f4f-413a-b073-fd7f4a81ee6d
-    crillab:
-      pso_id: e166377e-4c43-4c85-88f2-867e1ed15a7b
-    antibes-dev:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    strasbourg:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    PnCevennes:
-      pso_id: 6bc44db2-6f0e-4d4d-a7e4-b2fc6c036394
-    PnEcrins:
-      pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
-    lutece-secteur-public:
-      pso_id: 00000000-0000-0000-0000-000000000000
-      ospo_url: https://opensource.paris.fr
-    lutece-platform:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    messagerie-melanie2:
-      pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
-    radiofrance:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    datalocale:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    erasme:
-      pso_id: 00000000-0000-0000-0000-000000000000
-    PnX-SI:
-      pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
-    ssmsi-diffusion:
-      pso_id: eb716654-a790-448f-8a58-5972f589af88
-    codedgafp:
-      pso_id: 5c499713-9859-43ef-b596-e56bdf4619bd
-    picty:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    caradoc-org:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    GreycLab:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    dnum-sante-ars-data:
-      pso_id: d8a5ff98-67d3-405d-81b8-913829272ff8
-    DITP-pilotage:
-      pso_id: c1c38bcd-449f-47e5-9207-a9b573597a55
-    medInria:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    mimesis-inria:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    MmgTools:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    Inria-Empenn:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    vidjil:
-      pso_id: 2350726b-1199-48ef-8172-cd85fe151732
-    RMODINRIA:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    pharo-mooc:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    openalea:
-      pso_id: 10c0f7c1-cf5e-4a3e-8c86-ab4a12e41c19
-    scikit-learn:
-      pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
-    gammapy:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    gama-platform:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    pyshs:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    viginum-fr:
-      pso_id: d24d1af2-c506-4b10-82e8-ab92b8e959d2
-    agora-gouv:
-      pso_id: c1c38bcd-449f-47e5-9207-a9b573597a55
-    geovistory:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    Semantic-Data-for-Humanities:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    demarches-simplifiees:
-      pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
-      ospo_url: https://code.gouv.fr
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-    gip-inclusion:
-      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
-    rusticata:
-      pso_id: 221319d6-0ceb-4daa-9074-0db98cbdd1b2
-    cosae-fr:
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
-    AccessiDys:
-      pso_id: f130ad96-4a81-4eb4-a40c-0539edad5fff
-    IGNF-Ma-carte:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    spike-project:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    UMR-CNRM:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-    cloud-pi-nativeg:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    inclusion-numerique:
-      pso_id: da837b24-afa7-46ab-b56a-427dd4bcc159
-    OKDP:
-      pso_id: c4195774-f535-4d82-b03f-d5f0c6b08635
-    centreborelli:
-      pso_id: 74935183-7042-4ffc-a6cc-32f3421a3b26
-    PyMoDAQ:
-      pso_id: 35a8a489-89b3-40ea-9838-803dcd5f7d18
-    ignfab-minalac:
-      pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
-    GeotrekCE:
-      pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
-    publicodes:
-      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
-    sipf:
-      pso_id: fefaa887-34d0-4031-806f-6c94fb01e527
-    openfisca:
-      pso_id: c21fa08e-f09e-4312-a6d8-400e812454c4
-    interpretable:
-      pso_id: 9978f4d2-62b4-4e4d-b1fe-352b9990904a
-    France-Data-Reseau:
-      pso_id: 00000000-0000-0000-0000-000000000000
-
 git.ademe.fr:
   forge: gitlab
   pso_id: 98505403-46c6-4d6c-9766-6c58bce9a221
@@ -1046,14 +1050,6 @@ gitlab.labocleo.org:
 lab.unif.app:
   forge: gitlab
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
-
-gitlab.ow2.org:
-  forge: gitlab
-  owners:
-    lemonldap-ng:
-      pso_id: fa33b07a-3f71-46d4-b682-569c9faf211e
-    sympa:
-      pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
 git.unicaen.fr:
   forge: gitlab
