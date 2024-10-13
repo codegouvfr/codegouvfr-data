@@ -13,7 +13,7 @@ This repository contains data used by [code.gouv.fr](https://code.gouv.fr.)
 - `top_organizations.yml`: Top public sector organizations used for building `annuaire\_sup.json`.
 - `formations-logiciels-libres.yml`: Free Software training providers
 
-# [Contribute](CONTRIBUTE.md)
+# [Contribute](CONTRIBUTING.md)
 
 # Licence
 
