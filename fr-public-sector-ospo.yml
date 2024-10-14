@@ -16,17 +16,28 @@ https://code.gouv.fr:
    created: 2021-11-08
    pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
    floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
+   code:
+     - https://github.com/codegouvfr/
+     - https://git.sr.ht/~codegouvfr/
 
 # https://opensource.ign.fr
 https://github.com/ignf:
    name: OSPO de l'IGN
    created: 2024-01-29
+   code: 
+     - https://github.com/IGNF
    email: opensource@ign.fr
 
-https://opensource.paris.fr
+https://opensource.paris.fr:
    name: OSPO de la Ville de Paris
    created: 2022-06-01
    email: opensource@paris.fr
+
+https://pcll.ac-dijon.fr:
+   name: Pôle de compétences Logiciels Libres de l'Éducation nationale
+   email: eole@ac-dijon.fr
+   code:
+     - https://gitlab.mim-libre.fr/EOLE
 
 # https://opensource.amue.fr:
 # https://www.health-data-hub.fr/open-source:
