@@ -37,7 +37,10 @@ https://pcll.ac-dijon.fr:
    name: Pôle de compétences Logiciels Libres de l'Éducation nationale
    email: eole@ac-dijon.fr
    code:
+     - https://gitlab.mim-libre.fr/PCLL
      - https://gitlab.mim-libre.fr/EOLE
+     - https://gitlab.mim-libre.fr/MIM
+     - https://gitlab.mim-libre.fr/alphabet
 
 # https://opensource.amue.fr:
 # https://www.health-data-hub.fr/open-source:
