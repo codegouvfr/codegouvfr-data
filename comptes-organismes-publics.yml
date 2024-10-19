@@ -643,6 +643,9 @@ forge.apps.education.fr:
     reseau-certa:
     iri:
     incubateur:
+    drane-grenoble:
+    drane-lyon:
+    drane-ile-de-france:
 
 git.sr.ht:
   forge: sourcehut
