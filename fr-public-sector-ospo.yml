@@ -12,6 +12,7 @@
 
 https://code.gouv.fr:
    name: Mission logiciels libres de la DINUM
+   description: Une mission dédiée à l'usage, au développement et à la promotion des logiciels libres dans toute l'administration publique
    email: contact@code.gouv.fr
    created: 2021-11-08
    pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
@@ -23,19 +24,25 @@ https://code.gouv.fr:
 # https://opensource.ign.fr
 https://github.com/ignf:
    name: OSPO de l'IGN
+   description: L'Open Source Programme Office de l'Institut national de l'information géographique et forestière
    created: 2024-01-29
    code: 
      - https://github.com/IGNF
    email: opensource@ign.fr
+   pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
 
 https://opensource.paris.fr:
    name: OSPO de la Ville de Paris
+   pso_id: 34506f20-cf20-4c08-a9de-e56e680aa5ec
+   description: L'Open Source Programme Office de la ville de Paris
    created: 2022-06-01
    email: opensource@paris.fr
 
 https://pcll.ac-dijon.fr:
    name: Pôle de compétences Logiciels Libres de l'Éducation nationale
+   description: Le pôle de compétences Logiciels Libres développe des logiciels libres pour les acteurs de l'Éducation nationale
    email: eole@ac-dijon.fr
+   pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
    code:
      - https://gitlab.mim-libre.fr/PCLL
      - https://gitlab.mim-libre.fr/EOLE
