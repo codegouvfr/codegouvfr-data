@@ -527,10 +527,11 @@ github.com:
     pnecrins:
       pso_id: 6ce0a39f-65e0-41df-b2ce-b6946a62d47f
     lutece-secteur-public:
-      pso_id: 00000000-0000-0000-0000-000000000000
+      pso_id: 34506f20-cf20-4c08-a9de-e56e680aa5ec
       ospo_url: https://opensource.paris.fr
     lutece-platform:
-      pso_id: 00000000-0000-0000-0000-000000000000
+      pso_id: 34506f20-cf20-4c08-a9de-e56e680aa5ec
+      ospo_url: https://opensource.paris.fr
     messagerie-melanie2:
       pso_id: 05f90b6a-e3d9-4a41-a919-2e2f2d77e517
     radiofrance:
