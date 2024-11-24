@@ -1,33 +1,41 @@
-# This file contains a list of forges and organization accounts.
+# This file contains a list of software forges with organization
+# accounts where French public sector organizations publish source
+# code (that we call "public code" below for short).
 #
-# It is the main source for code source metadata exposed in
+# Forges can either be fully dedicated to public code, in which case
+# we don't need to list organization accounts or groups, or partially
+# dedicated to public code, in which case listing groups is mandatory.
+#
+# This file is the main source for code source metadata exposed in
 # https://code.gouv.fr/sources/
 #
 # You can contribute to this file: see CONTRIBUTING.md.
 #
-# For each top-level entry, you can indicate:
+# Each top-level entry should be the FQDN of a forge.
 #
-# - forge (string, mandatory):
-#   The forge software: either github, gitlab, sourcehut, gitea or gogs
+# For each top-level entry, you can specify further information:
 #
-# - owners (string, optional):
-#   A list of "owners", aka organization accounts or (sub)groups.
+# - forge (string, mandatory): The software: either "github",
+#   "gitlab", "sourcehut", "gitea" or "gogs".
+#
+# - owners (string, optional): A list of "owners", aka organization
+#   accounts or (sub)groups.
 #
 # For each top-level entry _or_ owner under "owner", you can add:
 #
-# - pso_id (string, mandatory):
-#   The organization's identifier on https://lannuaire.service-public.fr
+# - pso_id (string, mandatory): The organization's identifier on
+#   https://lannuaire.service-public.fr
 #
-# - ignored_since (date as string, optional):
-#   A date since which the forge should be ignored.
+# - ignored_since (date as string, optional): A date since which the
+#   forge should be ignored.
 #
-# - floss_policy (URL as string, optional):
-#   The link to open source policy appling to the owner's repositories.
+# - floss_policy (URL as string, optional): The link to open source
+#   policy appling to the owner's repositories.
 #
-# - ospo_url (URL as string, optional):
-#   The link to the Open Source Programme Office that manages the project
+# - ospo_url (URL as string, optional): The link to the Open Source
+#   Programme Office that manages the project
 #
-# If in doubt, you can write to us at: contact@code.gouv.fr
+# If in doubt, please write an email: contact@code.gouv.fr
 
 gitlab.com:
   forge: gitlab
