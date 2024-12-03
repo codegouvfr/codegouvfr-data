@@ -22,14 +22,13 @@ https://code.gouv.fr:
      - https://git.sr.ht/~codegouvfr/
 
 # https://opensource.ign.fr
-https://github.com/ignf:
+https://www.ign.fr/institut/des-donnees-et-logiciels-ouverts-au-service-de-la-nation:
    name: OSPO de l'IGN
    description: L'Open Source Programme Office de l'Institut national de l'information géographique et forestière
    created: 2024-01-29
    code: 
      - https://github.com/IGNF
    email: opensource@ign.fr
-   floss_policy: https://www.ign.fr/institut/des-donnees-et-logiciels-ouverts-au-service-de-la-nation
    pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
 
 https://opensource.paris.fr:
