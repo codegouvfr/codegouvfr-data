@@ -518,6 +518,8 @@ github.com:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     france-travail:
       pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
+    france-titres:
+      pso_id: e182c0ab-7031-4ce0-b472-2827d2f87f20
     autoritedelaconcurrence:
       pso_id: 9c7e6b7c-b793-40b2-a19b-a7dfeaa4792e
     e-pshad:
