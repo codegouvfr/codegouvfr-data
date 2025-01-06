@@ -345,6 +345,8 @@ github.com:
       pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
     numerique-gouv:
       pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
+    suitenumerique:
+      pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
     dinsic-gouv:
       pso_id: d1a97841-b4bf-46df-a089-1003e4e266b4
       ospo_url: https://code.gouv.fr
