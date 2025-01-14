@@ -662,13 +662,6 @@ forge.apps.education.fr:
     drane-lyon:
     drane-ile-de-france:
 
-git.sr.ht:
-  forge: sourcehut
-  owners:
-    ~codegouvfr:
-      pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
-      floss_policy: https://code.gouv.fr/fr/mission/#la-politique-de-publication-des-codes-sources-de-la-dinum
-
 gitlab.orfeo-toolbox.org:
   forge: gitlab
   pso_id: df0845a5-af7d-4b35-b9d5-9d64bc53b8f9
