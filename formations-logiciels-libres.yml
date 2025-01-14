@@ -373,7 +373,7 @@
   formations:
     - Créer un support pédagogique multimédia en ligne avec Opale ou Dokiel
     - Créer son site internet avec Optim
-  site_web: https://www.ezlearnconseil.fr/
+  site_web: https://www.ezlearnconseil.fr
   courriel: hello@ezlearnconseil.fr
   adresse: 25 avenue Alain Gerbault 31100 Toulouse
 
@@ -387,9 +387,9 @@
     - Montage vidéo avec Shotcut (et aussi du OpenCamera pour Android, Subtitle Composer)
     - Animation vectorielle et motion design avec Synfig Studio
     - Utilisation de Linux sur un poste de travail non informaticien
-    - "Gestion d'un organisme de formation avec https://opaga.fr (formation animée par l'auteur du logiciel)"
+    - "Gestion d'un organisme de formation avec opaga.fr (formation animée par l'auteur du logiciel)"
   site Web: https://formation.coopaname.coop
-  courriel: coop@coopaname.coop
+  courriel: of@coopaname.coop
   adresse: 3/7 rue Albert Marquet 75020 Paris
 
 - organisme: Ceméa
