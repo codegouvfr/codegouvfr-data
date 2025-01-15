@@ -653,3 +653,17 @@
   site_web: https://clairiere.coop
   courriel: laurent.costy@clairiere.coop
   adresse: 3/7 rue Albert Marquet 75020 Paris
+
+- organisme: Open Source School
+  description: >-
+    Fondée par Smile, leader européen de l’intégration et de l’infogérance open source, et initialement par l’EPSI, établissement privé pionnier de l’enseignement supérieur en informatique.
+  formations:
+    - Formation Digital & Mobile
+    - Formation Systèmes d'Information
+    - Formation Big data & NoSQL
+    - Formation E-business
+    - Formation Infrastructure
+    - Formation Méthodologie
+    - Formation Embarqué & IOT
+  site_web: https://formations.opensourceschool.fr
+  courriel: formations@opensourceschool.fr
