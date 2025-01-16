@@ -667,3 +667,15 @@
     - Formation Embarqué & IOT
   site_web: https://formations.opensourceschool.fr
   courriel: formations@opensourceschool.fr
+
+- organisme: Numericatous
+  description: >-
+    Numericatous est une plateforme de découverte et d'initiation à un numérique plus éthique, plus souverain et plus responsable. Nous favorisons l'usage des systèmes et logiciels libres afin de garder le contrôle de ses systèmes et données, c'est important.  Vous trouverez sur Numericatous de nombreuses ressources pour vous éduquer à ces enjeux et gagner en compétences dans l'usage des logiciels libres utiles au quotidien.
+  formations:
+    - Linux
+    - Internet
+    - Mails
+    - Bureautique
+    - WordPress
+  site_web: https://numericatous.fr
+  courriel: contact@numericatous.fr
