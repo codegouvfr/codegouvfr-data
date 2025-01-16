@@ -11,14 +11,15 @@
 #   floss_policy: the FLOSS policy published by the OSPO
 
 https://code.gouv.fr:
-   name: Mission logiciels libres de la DINUM
-   description: Une mission dédiée à l'usage, au développement et à la promotion des logiciels libres dans toute l'administration publique
+   name: Pôle Open Source et Communs Numériques de la DINUM
+   description: Une mission dédiée à l'usage, au développement et à la promotion des logiciels libres et des communs numériques dans l'administration publique
    email: contact@code.gouv.fr
    created: 2021-11-08
    pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
    floss_policy: https://code.gouv.fr/fr/mission/#politique-logiciels-libres
    code:
      - https://github.com/codegouvfr/
+     - https://github.com/suitenumerique/
 
 # https://opensource.ign.fr
 https://www.ign.fr/institut/des-donnees-et-logiciels-ouverts-au-service-de-la-nation:
