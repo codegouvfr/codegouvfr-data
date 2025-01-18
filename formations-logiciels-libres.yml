@@ -679,3 +679,12 @@
     - WordPress
   site_web: https://numericatous.fr
   courriel: contact@numericatous.fr
+
+- organisme: Association ACIAH
+  description: >-
+    L’association ACIAH, en partenariat avec l’Agence nationale de la cohésion des territoires et avec la Conférence des Financeurs, propose des initiations ou formations autour de l’accessibilité.
+  formations:
+    - Install-party Linux-Mint
+    - Thunderbird (messagerie), libre-office (traitement de texte) et Orca (lecteur d’écran)
+  site_web: https://aciah.xyz
+  courriel: aciah@aciah.xyz
