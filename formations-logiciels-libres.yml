@@ -688,3 +688,23 @@
     - Thunderbird (messagerie), libre-office (traitement de texte) et Orca (lecteur d’écran)
   site_web: https://aciah.xyz
   courriel: aciah@aciah.xyz
+
+- organisme: ProjeQtOr
+  description: >-
+    La SAS ProjeQtOr édite le logiciel Libre de Gestion de Projets ProjeQtOr.  Elle propose des formations dédiées à ce logiciel, couvrant l’ensemble de ses fonctionnalités, de la planification de base à des techniques avancées et expertes.  Ce formations incluent une découverte de l'outil, un suivi de l’activité des membres d’équipe, ainsi que l’administration et le paramétrage. Elles s'organisent sous la forme de thématiques comportant des modules (listés ci-dessous) ou à la carte.
+  formations:
+    - Découverte de ProjeQtOr
+    - Introduction à la gestion de projets
+    - Les fondamentaux de ProjeQtOr
+    - Planification de base avec ProjeQtOr
+    - Planification avancée avec ProjeQtOr
+    - Planification experte avec ProjeQtOr
+    - Découverte globale du périmètre de ProjeQtOr
+    - Étude détaillée du périmètre de ProjeQtOr selon 2 modules
+    - Réalisation d’une étude de cas avec ProjeQtOr
+    - Suivi de l’activité dans ProjeQtOr pour le membre d’équipe
+    - Administration et paramétrage de ProjeQtOr
+    - Développement de composants pour ProjeQtOr
+  site_web: https://www.projeqtor.org
+  courriel: information@projeqtor.org
+  adresse: 16 Bis Quai Saint-Marcet, 31600 Muret
