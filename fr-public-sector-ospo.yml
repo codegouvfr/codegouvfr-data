@@ -3,12 +3,14 @@
 #
 # Each entry is of the form:
 # 
-# [URL]: the URL of the OSPO
+# [URL]: the main URL of the OSPO
 #   name: the name of the OSPO
+#   description: the description of the OSPO
 #   email: the contact email
-#   pso_id: public sector organization id from https://lannuaire.service-public.fr
 #   created: the creation date of the OSPO
-#   floss_policy: the FLOSS policy published by the OSPO
+#   pso_id: public sector organization id from https://lannuaire.service-public.fr
+#   floss_policy: the URL of the FLOSS policy published by the OSPO
+#   code: a list of source code organizations/groups
 
 https://code.gouv.fr:
    name: Pôle Open Source et Communs Numériques de la DINUM
