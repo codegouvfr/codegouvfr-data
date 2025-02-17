@@ -96,6 +96,8 @@ gitlab.com:
       pso_id: 00000000-0000-0000-0000-000000000000
     validata-table:
       pso_id: 00000000-0000-0000-0000-000000000000
+    insee_drees_cnaf:
+      pso_id: 929f8575-51b3-4977-8dcb-147b756de677
 
 github.com:
   forge: github
