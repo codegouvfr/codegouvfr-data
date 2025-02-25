@@ -52,6 +52,13 @@ https://pcll.ac-dijon.fr:
      - https://gitlab.mim-libre.fr/alphabet
      - https://gitlab.mim-libre.fr/men
 
+https://francetravail.io/opportunites-innovation/participer-initiatives-open-source:
+   name: OSPO de France Travail
+   pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
+   description: L'Open Source Programme Office de France Travail
+   created: 2024-07-01
+   email: oss.00619@francetravail.fr
+
 # https://opensource.amue.fr:
 # https://www.health-data-hub.fr/open-source:
 # https://www.france-universite-numerique.fr:
