@@ -10,7 +10,7 @@ This repository contains data used by [code.gouv.fr](https://code.gouv.fr.)
 - `comptes-organismes-publics.yml`: Public sector organization accounts for hosting source code
 - `fr-public-sector-ospo.yml`: Open Source Programme Offices in the French public sector
 - `awesome-codegouvfr.yml`: Public sector Free Software projects identified as "Awesome".
-- `top_organizations.yml`: Top public sector organizations used for building `annuaire\_sup.json`.
+- `top_organizations.yml`: Top public sector organizations used for building `annuaire_sup.json`.
 - `formations-logiciels-libres.yml`: Free Software training providers
 
 # [Contribute](CONTRIBUTING.md)
