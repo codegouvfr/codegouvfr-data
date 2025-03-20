@@ -866,10 +866,6 @@ gitlabev.imtbs-tsp.eu:
   forge: gitlab
   pso_id: 4ca60afd-3886-434c-80bb-f6bc55581323
 
-forge.aeif.fr:
-  forge: gitlab
-  pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
-
 gitlab.emi.u-bordeaux.fr:
   forge: gitlab
   pso_id: ba1a0e00-3a3a-4fd3-860a-5b44a6d4ed4f
