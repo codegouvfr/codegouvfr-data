@@ -644,6 +644,8 @@ github.com:
       pso_id: db057bfd-ee8f-49eb-83a9-156c8f87bc3a
     mnfst:
       pso_id: 1774a61b-42e1-4272-b6bb-7ba4cc44b8ac
+    dataregion:
+      pso_id: 87a4190c-21b5-4ddf-92bc-fd715d007e5f
 
 gitlab.ow2.org:
   forge: gitlab
