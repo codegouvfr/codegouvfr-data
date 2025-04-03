@@ -35,7 +35,7 @@
 # - ospo_url (URL as string, optional): The link to the Open Source
 #   Programme Office that manages the project
 #
-# If in doubt, please write an email: contact@code.gouv.fr
+# If in doubt, please write an email: floss@numerique.gouv.fr
 
 gitlab.com:
   forge: gitlab
