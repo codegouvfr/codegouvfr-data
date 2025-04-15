@@ -15,65 +15,85 @@
 #   latestTestedInstallationDate: YYYY-MM-DD
 
 https://github.com/SocialGouv/archifiltre-docs:
+  default_branch: dev
   added: 2023-11-30
 
 https://github.com/CatalaLang/catala:
+  default_branch: master
   added: 2023-11-30
 
 https://github.com/SocialGouv/dashlord:
+  default_branch: main
   added: 2023-11-30
 
 https://github.com/datagouv/decoupage-administratif:
+  default_branch: master
   added: 2023-11-30
 
 https://github.com/demarches-simplifiees/demarches-simplifiees.fr:
+  default_branch: main
   added: 2023-11-30
 
 https://github.com/numerique-gouv/django-dsfr:
+  default_branch: main
   added: 2023-11-30
 
 https://github.com/betagouv/django-magicauth:
+  default_branch: main
   added: 2023-11-30
 
 https://gitlab.huma-num.fr/datasphere/heimdall/python:
+  default_branch: main
   added: 2025-04-04
 
 https://github.com/InseeFrLab/onyxia:
+  default_branch: main
   added: 2023-11-30
 
 https://github.com/publicodes/publicodes:
+  default_branch: master
   added: 2023-11-30
 
 https://github.com/codegouvfr/react-dsfr:
+  default_branch: main
   added: 2023-11-30
 
 https://github.com/spyrales/shinygouv:
+  default_branch: main
   added: 2023-11-30
   latestTestedInstallationDate: 2023-08-24
 
 https://github.com/numerique-gouv/sites-faciles:
+  default_branch: main
   added: 2023-11-30
 
 https://github.com/opendatateam/udata:
+  default_branch: master
   added: 2023-11-30
 
 https://github.com/EsupPortail/Esup-Pod:
+  default_branch: main
   added: 2024-04-08
   latestTestedInstallationDate: 2024-03-28
 
 https://github.com/betagouv/recommandations-collaboratives:
+  default_branch: develop
   added: 2024-07-16
 
 https://github.com/iTowns/itowns:
+  default_branch: master
   added: 2024-10-11
 
 https://github.com/ProgrammeVitam/vitam:
+  default_branch: develop
   added: 2023-11-30
 
 https://github.com/mnfst/manifest:
+  default_branch: master
   added: 2025-03-12
 
 https://github.com/GouvernementFR/dsfr:
+  default_branch: main
   added: 2025-03-26
 
 # https://github.com/suitenumerique/docs:
