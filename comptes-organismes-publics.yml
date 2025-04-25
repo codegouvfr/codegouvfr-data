@@ -650,6 +650,8 @@ github.com:
       pso_id: 1eead2a6-2a31-4e18-b8ea-f44c2d6539ff
     proconnect-gouv:
       pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
+    cloud-gouv:
+      pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
 
 gitlab.ow2.org:
   forge: gitlab
