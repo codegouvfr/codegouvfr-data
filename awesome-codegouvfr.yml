@@ -30,9 +30,9 @@ https://github.com/datagouv/decoupage-administratif:
   default_branch: master
   added: 2023-11-30
 
-https://github.com/demarches-simplifiees/demarches-simplifiees.fr:
-  default_branch: main
-  added: 2023-11-30
+# https://github.com/demarches-simplifiees/demarches-simplifiees.fr:
+#   default_branch: main
+#   added: 2023-11-30
 
 https://github.com/numerique-gouv/django-dsfr:
   default_branch: main
