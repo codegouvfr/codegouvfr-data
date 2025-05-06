@@ -2,6 +2,8 @@
 # accounts where French public sector organizations publish source
 # code (that we call "public code" below for short).
 #
+# ⚠️ This list is temporarily not maintained anymore by DINUM.
+#
 # Forges can either be fully dedicated to public code, in which case
 # we don't need to list organization accounts or groups, or partially
 # dedicated to public code, in which case listing groups is mandatory.
