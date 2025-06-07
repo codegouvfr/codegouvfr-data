@@ -2,7 +2,7 @@
 # from the French public sector.
 #
 # Each entry is of the form:
-# 
+#
 # [URL]: the main URL of the OSPO
 #   name: the name of the OSPO
 #   description: the description of the OSPO
@@ -14,7 +14,9 @@
 
 https://code.gouv.fr:
    name: Pôle Open Source et Communs Numériques de la DINUM
-   description: Une mission dédiée à l'usage, au développement et à la promotion des logiciels libres et des communs numériques dans l'administration publique
+   description:
+     en: A mission dedicated to the use, development and promotion of Free Software and digital commons in public administration
+     fr: Une mission dédiée à l'usage, au développement et à la promotion des logiciels libres et des communs numériques dans l'administration publique
    email: floss@numerique.gouv.fr
    created: 2021-11-08
    pso_id: 6a7cd2a0-af32-4b55-9125-671b16df777b
@@ -26,9 +28,11 @@ https://code.gouv.fr:
 # https://opensource.ign.fr
 https://www.ign.fr/institut/des-donnees-et-logiciels-ouverts-au-service-de-la-nation:
    name: OSPO de l'IGN
-   description: L'Open Source Programme Office de l'Institut national de l'information géographique et forestière
+   description:
+     en: The Open Source Programme Office of the French National Institute for Geographic and Forestry Information
+     fr: L'Open Source Programme Office de l'Institut national de l'information géographique et forestière
    created: 2024-01-29
-   code: 
+   code:
      - https://github.com/IGNF
    email: opensource@ign.fr
    pso_id: f610de75-2107-4543-a4e3-fd501a8b611c
@@ -36,13 +40,17 @@ https://www.ign.fr/institut/des-donnees-et-logiciels-ouverts-au-service-de-la-na
 https://opensource.paris.fr:
    name: OSPO de la Ville de Paris
    pso_id: 34506f20-cf20-4c08-a9de-e56e680aa5ec
-   description: L'Open Source Programme Office de la ville de Paris
+   description:
+     en: Open Source Program Office for the City of Paris
+     fr: L'Open Source Programme Office de la ville de Paris
    created: 2022-06-01
    email: opensource@paris.fr
 
 https://pcll.ac-dijon.fr:
    name: Pôle de compétences Logiciels Libres de l'Éducation nationale
-   description: Le pôle de compétences Logiciels Libres développe des logiciels libres pour les acteurs de l'Éducation nationale
+   description:
+     en: The Logiciels Libres center develops open source software for the French education system
+     fr: Le pôle de compétences Logiciels Libres développe des logiciels libres pour les acteurs de l'Éducation nationale
    email: eole@ac-dijon.fr
    pso_id: 3ed2f725-e077-4973-a531-498e13fc7861
    code:
@@ -55,7 +63,9 @@ https://pcll.ac-dijon.fr:
 https://francetravail.io/opportunites-innovation/participer-initiatives-open-source:
    name: OSPO de France Travail
    pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
-   description: L'Open Source Programme Office de France Travail
+   description:
+     en: France Travail's Open Source Programme Office
+     fr: L'Open Source Programme Office de France Travail
    created: 2024-07-01
    email: oss.00619@francetravail.fr
 
