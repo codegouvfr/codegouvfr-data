@@ -14,6 +14,7 @@
 
 https://code.gouv.fr:
    name: Pôle Open Source et Communs Numériques de la DINUM
+   country: FR
    description:
      en: A mission dedicated to the use, development and promotion of Free Software and digital commons in public administration
      fr: Une mission dédiée à l'usage, au développement et à la promotion des logiciels libres et des communs numériques dans l'administration publique
@@ -28,6 +29,7 @@ https://code.gouv.fr:
 # https://opensource.ign.fr
 https://www.ign.fr/institut/des-donnees-et-logiciels-ouverts-au-service-de-la-nation:
    name: OSPO de l'IGN
+   country: FR
    description:
      en: The Open Source Programme Office of the French National Institute for Geographic and Forestry Information
      fr: L'Open Source Programme Office de l'Institut national de l'information géographique et forestière
@@ -39,6 +41,7 @@ https://www.ign.fr/institut/des-donnees-et-logiciels-ouverts-au-service-de-la-na
 
 https://opensource.paris.fr:
    name: OSPO de la Ville de Paris
+   country: FR
    pso_id: 34506f20-cf20-4c08-a9de-e56e680aa5ec
    description:
      en: Open Source Program Office for the City of Paris
@@ -48,6 +51,7 @@ https://opensource.paris.fr:
 
 https://pcll.ac-dijon.fr:
    name: Pôle de compétences Logiciels Libres de l'Éducation nationale
+   country: FR
    description:
      en: The Logiciels Libres center develops open source software for the French education system
      fr: Le pôle de compétences Logiciels Libres développe des logiciels libres pour les acteurs de l'Éducation nationale
@@ -62,6 +66,7 @@ https://pcll.ac-dijon.fr:
 
 https://francetravail.io/opportunites-innovation/participer-initiatives-open-source:
    name: OSPO de France Travail
+   country: FR
    pso_id: cb47a769-8574-403d-9130-0ad9c83c7e22
    description:
      en: France Travail's Open Source Programme Office
