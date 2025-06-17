@@ -74,8 +74,19 @@ https://francetravail.io/opportunites-innovation/participer-initiatives-open-sou
    created: 2024-07-01
    email: oss.00619@francetravail.fr
 
+https://www.recia.fr:
+   name: RECIA
+   country: FR
+   description:
+     fr: Groupement d'Intérêt Public RECIA
+     en: RECIA Public Interest Group
+   email: contact@recia.fr
+   floss_policy: https://www.recia.fr/innovation-logiciels-libres
+   created: 2003-10-08
+   code:
+     - https://github.com/orgs/GIP-RECIA/repositories
+
 # https://opensource.amue.fr:
 # https://www.health-data-hub.fr/open-source:
 # https://www.france-universite-numerique.fr:
 # https://socialgouv.github.io:
-# https://www.recia.fr/innovation-logiciels-libres:
