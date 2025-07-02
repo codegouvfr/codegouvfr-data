@@ -87,6 +87,18 @@ https://www.recia.fr:
    code:
      - https://github.com/orgs/GIP-RECIA/repositories
 
+https://www.echirolles.fr/territoire-numerique:
+  name: Direction de la stratégie et de la culture numériques (DSCN)
+  country: FR
+  description:
+    fr: La DSCN a la responsabilité technique du numérique pour la ville d'Échirolles.
+    en: The DSCN is responsible for digital technology in the city of Échirolles.
+  email: nicolas.vivant@echirolles.fr
+  created: 2021-02-01
+  floss_policy: https://www.echirolles.fr/sites/default/files/2022-09/Schema_directeur_numerique.pdf
+  code:
+    - https://documentation.echirolles.fr
+
 # https://opensource.amue.fr:
 # https://www.health-data-hub.fr/open-source:
 # https://www.france-universite-numerique.fr:
