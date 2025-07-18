@@ -99,6 +99,18 @@ https://www.echirolles.fr/territoire-numerique:
   code:
     - https://documentation.echirolles.fr
 
+https://www.strasbourg.eu/strategie-logiciels-libres:
+  name: OSPO de la Ville et l'Eurométropole de Strasbourg
+  country: FR
+  description:
+    fr: La cellule « Stratégie Logiciels Libres » de la ville et l'Eurométropole de Strasbourg a pour objectif de promouvoir l'utilisation et le développement des logiciels libres au sein de notre territoire.
+    en: The "Free Software Strategy" unit of the city and Eurometropole of Strasbourg aims to promote the use and development of Free Software within our territory.
+  email: opensource@strasbourg.eu
+  created: 2024-10-01
+  floss_policy: https://www.strasbourg.eu/strategie-logiciels-libres
+  code:
+    - https://github.com/Ville-Eurometropole-Strasbourg
+
 # https://opensource.amue.fr:
 # https://www.health-data-hub.fr/open-source:
 # https://www.france-universite-numerique.fr:
