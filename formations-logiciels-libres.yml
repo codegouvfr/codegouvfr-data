@@ -117,23 +117,6 @@
   courriel: contact@openska.com
   adresse: 107 rue Caulaincourt, 75018 Paris - France
 
-- organisme: Self-Reliance
-  description: |
-   Self-Reliance est une association qui à pour objectif de rendre les
-   personnes autonomes devant l'outil informatique.  Elle accompagne
-   les groupes, associations, indépendants, TPE à monter leur
-   programme de formation à la carte. Les formations se déroulent sous
-   forme de démarche participative.
-  formations:
-    - Le système d'exploitation GNU/Linux Ubuntu.
-    - La bureautique (OpenOffice, Firefox, Thunderbird, GPG, etc.).
-    - Le graphisme (GIMP, inscape, etc.).
-    - La gestion de ressources (journalier, PhpCompta, VYM, agenda commun, etc.).
-    - Les CMS (Spip, GRR, GPLI, wiki, etc.).
-  site_web: https://www.self-reliance.be
-  courriel: infosr@self-reliance.be
-  adresse: Rue Haut Vent 35 ; B-5070 Fosses-La-Ville - Belgique
-
 - organisme: Formation Perl
   description: |
    Spécialiste du langage Perl, Sylvain Lhullier propose des formations
