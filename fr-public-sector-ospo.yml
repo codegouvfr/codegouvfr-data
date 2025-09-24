@@ -112,11 +112,11 @@ https://www.strasbourg.eu/strategie-logiciels-libres:
     - https://github.com/Ville-Eurometropole-Strasbourg
 
 https://scienceouverte.univ-grenoble-alpes.fr/a-propos/cellule-data-grenoble-alpes:
-  name: Cellule Codes Données Grenoble Alpes (CDGA)
+  name: Cellule Codes Données Grenoble Alpes
   country: FR
   description:
-    fr:  La cellule Codes Données Grenoble Alpes (CDGA) est une structure opérationnelle d’accompagnement des communautés scientifiques du site grenoblois sur toutes les problématiques liées aux données et aux codes de la recherche.
-    en: The Grenoble Alpes Data Codes Unit (CDGA) is an operational structure designed to support the Grenoble area's scientific communities in all matters relating to research data and codes.
+    fr: "La cellule Codes Données Grenoble Alpes (CDGA) est une structure opérationnelle d’accompagnement des communautés scientifiques du site grenoblois sur toutes les problématiques liées aux données et aux codes de la recherche."
+    en: "The Grenoble Alpes Data Codes Unit (CDGA) is an operational structure designed to support the Grenoble area's scientific communities in all matters relating to research data and codes."
   email: sos-codes-recherche@univ-grenoble-alpes.fr
   created: 2025-09-23
   code:
