@@ -654,6 +654,9 @@ github.com:
       pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
     cloud-gouv:
       pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
+    gristgouv:
+      pso_id: e5299ba4-7aa4-4f95-aa82-7e765d5648fe
+      ospo_url: https://beta.gouv.fr/startups/grist.numerique.gouv.fr.html
 
 gitlab.ow2.org:
   forge: gitlab
